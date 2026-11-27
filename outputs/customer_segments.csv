@@ -1,0 +1,1501 @@
+customer_id,age,gender,city,annual_income_lakh,recency_days,frequency,monetary,avg_order_value,cluster,segment
+C0001,44,Male,Pune,11.1,143,11,27396.36,2490.5781818181817,1,Family Essential Buyers
+C0002,18,Male,Delhi,5.6,6,13,13660.52,1050.809230769231,3,Young Trend Shoppers
+C0003,40,Female,Pune,5.9,141,3,6047.44,2015.8133333333333,2,At-Risk / Inactive
+C0004,41,Male,Delhi,11.9,9,15,42579.93,2838.662,1,Family Essential Buyers
+C0005,37,Female,Delhi,15.9,67,39,158522.16,4064.670769230769,0,Premium Loyalists
+C0006,27,Female,Delhi,8.3,246,1,2102.47,2102.47,2,At-Risk / Inactive
+C0007,32,Female,Nagpur,5.4,16,6,10344.279999999999,1724.0466666666664,3,Young Trend Shoppers
+C0008,41,Male,Bengaluru,6.5,117,3,2373.2200000000003,791.0733333333334,2,At-Risk / Inactive
+C0009,42,Male,Mumbai,10.0,3,18,100774.79000000001,5598.599444444445,0,Premium Loyalists
+C0010,22,Female,Pune,7.1,5,10,12254.31,1225.431,3,Young Trend Shoppers
+C0011,28,Female,Mumbai,4.9,14,15,24204.55,1613.6366666666665,3,Young Trend Shoppers
+C0012,30,Female,Bengaluru,9.1,4,1,1364.44,1364.44,2,At-Risk / Inactive
+C0013,22,Female,Mumbai,10.0,46,10,19730.28,1973.0279999999998,3,Young Trend Shoppers
+C0014,41,Female,Bengaluru,3.7,65,1,1360.33,1360.33,2,At-Risk / Inactive
+C0015,26,Female,Mumbai,6.7,9,17,26672.31,1568.959411764706,3,Young Trend Shoppers
+C0016,18,Male,Pune,6.7,28,16,27109.6,1694.35,3,Young Trend Shoppers
+C0017,29,Male,Mumbai,5.8,92,6,7245.49,1207.5816666666667,3,Young Trend Shoppers
+C0018,48,Male,Mumbai,26.2,1,21,118166.55,5626.978571428572,0,Premium Loyalists
+C0019,18,Female,Mumbai,10.4,194,5,6841.96,1368.392,2,At-Risk / Inactive
+C0020,23,Male,Delhi,8.5,50,11,23405.75,2127.7954545454545,3,Young Trend Shoppers
+C0021,35,Female,Bengaluru,11.3,19,5,6390.48,1278.096,1,Family Essential Buyers
+C0022,26,Female,Mumbai,6.2,14,9,10084.03,1120.447777777778,3,Young Trend Shoppers
+C0023,47,Male,Pune,11.2,4,3,7994.32,2664.773333333333,1,Family Essential Buyers
+C0024,30,Male,Mumbai,11.0,138,1,2330.41,2330.41,2,At-Risk / Inactive
+C0025,28,Male,Mumbai,14.6,28,10,21606.49,2160.6490000000003,1,Family Essential Buyers
+C0026,33,Male,Nagpur,6.0,74,15,28572.54,1904.836,1,Family Essential Buyers
+C0027,23,Male,Bengaluru,2.8,25,7,11809.71,1687.1014285714284,3,Young Trend Shoppers
+C0028,57,Female,Nagpur,15.9,4,13,46601.78,3584.7523076923076,0,Premium Loyalists
+C0029,42,Female,Pune,20.0,12,44,223014.94,5068.521363636363,0,Premium Loyalists
+C0030,39,Male,Mumbai,11.2,20,9,17413.309999999998,1934.8122222222219,1,Family Essential Buyers
+C0031,41,Male,Nagpur,12.4,22,28,32608.170000000002,1164.5775,1,Family Essential Buyers
+C0032,24,Male,Pune,11.1,76,1,1307.8,1307.8,2,At-Risk / Inactive
+C0033,41,Male,Pune,6.1,26,5,8252.79,1650.5580000000002,1,Family Essential Buyers
+C0034,33,Female,Bengaluru,7.3,6,20,33221.54,1661.077,3,Young Trend Shoppers
+C0035,32,Male,Mumbai,6.5,10,4,9166.59,2291.6475,1,Family Essential Buyers
+C0036,37,Female,Mumbai,3.5,47,18,28220.62,1567.812222222222,3,Young Trend Shoppers
+C0037,33,Female,Bengaluru,19.9,27,53,206376.78,3893.901509433962,0,Premium Loyalists
+C0038,20,Female,Delhi,3.9,8,6,6904.55,1150.7583333333334,3,Young Trend Shoppers
+C0039,27,Female,Delhi,6.7,42,10,11290.49,1129.049,3,Young Trend Shoppers
+C0040,29,Female,Delhi,7.4,110,4,10268.869999999999,2567.2174999999997,1,Family Essential Buyers
+C0041,18,Female,Nagpur,7.0,17,6,8983.96,1497.3266666666666,3,Young Trend Shoppers
+C0042,26,Male,Pune,8.8,102,1,1650.01,1650.01,2,At-Risk / Inactive
+C0043,33,Male,Mumbai,10.2,66,7,23092.48,3298.925714285714,1,Family Essential Buyers
+C0044,18,Female,Mumbai,5.8,16,34,44494.17,1308.6520588235294,3,Young Trend Shoppers
+C0045,24,Male,Mumbai,13.1,365,1,1124.31,1124.31,2,At-Risk / Inactive
+C0046,33,Female,Bengaluru,7.5,136,1,1846.37,1846.37,2,At-Risk / Inactive
+C0047,30,Female,Mumbai,4.6,18,29,43166.62,1488.5041379310346,3,Young Trend Shoppers
+C0048,22,Female,Delhi,4.6,13,15,23060.52,1537.368,3,Young Trend Shoppers
+C0049,35,Male,Delhi,8.1,45,9,19741.02,2193.4466666666667,1,Family Essential Buyers
+C0050,43,Male,Bengaluru,14.0,13,29,130957.86,4515.788275862069,0,Premium Loyalists
+C0051,20,Male,Pune,4.1,3,9,18424.55,2047.1722222222222,3,Young Trend Shoppers
+C0052,41,Female,Bengaluru,21.4,21,13,84078.68,6467.590769230768,0,Premium Loyalists
+C0053,28,Male,Bengaluru,9.2,81,1,825.14,825.14,2,At-Risk / Inactive
+C0054,21,Male,Mumbai,6.0,66,4,7558.68,1889.67,3,Young Trend Shoppers
+C0055,34,Female,Mumbai,7.0,193,7,15507.96,2215.422857142857,1,Family Essential Buyers
+C0056,32,Female,Bengaluru,11.2,35,1,2315.69,2315.69,2,At-Risk / Inactive
+C0057,28,Male,Mumbai,4.9,5,12,14420.76,1201.73,3,Young Trend Shoppers
+C0058,31,Male,Mumbai,6.0,60,5,11937.380000000001,2387.476,1,Family Essential Buyers
+C0059,45,Female,Bengaluru,8.4,47,25,193160.83,7726.4331999999995,0,Premium Loyalists
+C0060,42,Male,Bengaluru,17.6,15,23,85740.64,3727.8539130434783,0,Premium Loyalists
+C0061,35,Male,Delhi,10.8,67,7,19280.78,2754.3971428571426,1,Family Essential Buyers
+C0062,37,Male,Mumbai,6.9,112,20,30818.24,1540.912,1,Family Essential Buyers
+C0063,46,Female,Mumbai,7.7,161,8,23984.03,2998.00375,1,Family Essential Buyers
+C0064,32,Male,Mumbai,11.2,75,14,28126.45,2009.0321428571428,1,Family Essential Buyers
+C0065,48,Male,Pune,11.7,28,7,26679.55,3811.3642857142854,1,Family Essential Buyers
+C0066,47,Male,Mumbai,9.7,137,10,22239.27,2223.927,1,Family Essential Buyers
+C0067,52,Female,Delhi,13.8,7,4,5738.110000000001,1434.5275000000001,1,Family Essential Buyers
+C0068,30,Male,Bengaluru,6.6,96,11,26806.37,2436.942727272727,1,Family Essential Buyers
+C0069,37,Male,Bengaluru,8.3,18,17,96223.25,5660.191176470588,0,Premium Loyalists
+C0070,24,Female,Mumbai,4.5,30,21,43293.61,2061.600476190476,3,Young Trend Shoppers
+C0071,39,Male,Pune,6.1,3,10,15834.54,1583.4540000000002,1,Family Essential Buyers
+C0072,18,Female,Pune,3.9,24,12,13318.45,1109.8708333333334,3,Young Trend Shoppers
+C0073,31,Male,Delhi,8.7,42,3,3541.95,1180.6499999999999,2,At-Risk / Inactive
+C0074,18,Male,Nagpur,5.9,20,9,5968.6900000000005,663.1877777777778,3,Young Trend Shoppers
+C0075,55,Female,Nagpur,16.8,23,45,258108.04,5735.734222222222,0,Premium Loyalists
+C0076,30,Female,Delhi,5.8,63,9,8095.19,899.4655555555555,3,Young Trend Shoppers
+C0077,18,Male,Mumbai,5.2,1,8,12486.49,1560.81125,3,Young Trend Shoppers
+C0078,33,Female,Bengaluru,10.4,38,4,7053.75,1763.4375,1,Family Essential Buyers
+C0079,27,Female,Delhi,12.3,162,8,24329.15,3041.14375,1,Family Essential Buyers
+C0080,40,Male,Mumbai,9.2,81,1,2634.15,2634.15,2,At-Risk / Inactive
+C0081,32,Male,Delhi,9.9,37,9,15404.69,1711.6322222222223,1,Family Essential Buyers
+C0082,34,Male,Delhi,6.0,29,21,22616.29,1076.9661904761906,3,Young Trend Shoppers
+C0083,30,Male,Delhi,10.7,152,2,3383.89,1691.945,2,At-Risk / Inactive
+C0084,38,Female,Mumbai,17.5,7,23,94341.28,4101.794782608696,0,Premium Loyalists
+C0085,41,Female,Delhi,20.3,16,39,220229.81,5646.918205128205,0,Premium Loyalists
+C0086,53,Male,Mumbai,17.1,7,26,148735.29,5720.588076923077,0,Premium Loyalists
+C0087,50,Female,Delhi,9.0,13,6,13284.289999999999,2214.048333333333,1,Family Essential Buyers
+C0088,30,Female,Mumbai,4.6,77,14,19184.39,1370.3135714285713,3,Young Trend Shoppers
+C0089,38,Male,Bengaluru,20.5,12,28,141551.95,5055.426785714286,0,Premium Loyalists
+C0090,46,Female,Bengaluru,8.9,88,13,29477.489999999998,2267.4992307692305,1,Family Essential Buyers
+C0091,40,Male,Pune,13.4,42,14,52923.86,3780.2757142857145,0,Premium Loyalists
+C0092,29,Female,Nagpur,5.3,34,13,24365.84,1874.2953846153846,3,Young Trend Shoppers
+C0093,21,Female,Pune,5.8,18,18,18481.77,1026.765,3,Young Trend Shoppers
+C0094,22,Male,Bengaluru,5.0,21,7,10660.31,1522.9014285714286,3,Young Trend Shoppers
+C0095,40,Male,Pune,5.4,11,20,31871.44,1593.572,1,Family Essential Buyers
+C0096,33,Female,Delhi,9.4,218,4,6163.91,1540.9775,2,At-Risk / Inactive
+C0097,38,Female,Mumbai,5.3,57,13,14056.04,1081.2338461538461,3,Young Trend Shoppers
+C0098,46,Female,Nagpur,24.5,4,8,46036.369999999995,5754.546249999999,0,Premium Loyalists
+C0099,46,Male,Pune,11.3,7,36,221888.18,6163.560555555556,0,Premium Loyalists
+C0100,54,Male,Delhi,7.7,365,1,724.13,724.13,2,At-Risk / Inactive
+C0101,42,Male,Delhi,12.5,103,2,3532.45,1766.225,2,At-Risk / Inactive
+C0102,20,Male,Nagpur,2.8,27,3,8013.99,2671.33,3,Young Trend Shoppers
+C0103,27,Female,Nagpur,4.7,15,9,8245.39,916.1544444444444,3,Young Trend Shoppers
+C0104,28,Male,Bengaluru,5.6,186,3,5826.96,1942.32,2,At-Risk / Inactive
+C0105,28,Female,Delhi,5.6,101,9,13286.87,1476.318888888889,3,Young Trend Shoppers
+C0106,28,Female,Nagpur,7.3,197,6,13301.52,2216.92,1,Family Essential Buyers
+C0107,27,Male,Bengaluru,6.4,34,10,12699.49,1269.949,3,Young Trend Shoppers
+C0108,19,Female,Delhi,6.7,103,8,8847.17,1105.89625,3,Young Trend Shoppers
+C0109,37,Male,Pune,13.6,16,27,184880.4,6847.422222222222,0,Premium Loyalists
+C0110,34,Female,Bengaluru,9.2,5,1,1317.44,1317.44,2,At-Risk / Inactive
+C0111,18,Female,Bengaluru,3.8,8,4,11264.44,2816.11,3,Young Trend Shoppers
+C0112,32,Male,Bengaluru,7.4,104,16,19572.32,1223.27,3,Young Trend Shoppers
+C0113,24,Male,Bengaluru,6.0,36,24,38968.13,1623.6720833333331,3,Young Trend Shoppers
+C0114,48,Male,Pune,6.3,107,13,17231.25,1325.4807692307693,1,Family Essential Buyers
+C0115,43,Male,Pune,16.5,70,31,139051.85,4485.543548387097,0,Premium Loyalists
+C0116,39,Male,Pune,10.2,171,2,1734.46,867.23,2,At-Risk / Inactive
+C0117,47,Female,Pune,9.8,16,11,25295.03,2299.5481818181815,1,Family Essential Buyers
+C0118,44,Male,Mumbai,6.0,10,11,19917.85,1810.7136363636362,1,Family Essential Buyers
+C0119,29,Male,Nagpur,9.0,40,7,6705.99,957.9985714285714,3,Young Trend Shoppers
+C0120,30,Female,Bengaluru,11.3,8,5,11511.17,2302.234,1,Family Essential Buyers
+C0121,33,Female,Delhi,10.6,26,12,22864.5,1905.375,1,Family Essential Buyers
+C0122,25,Male,Bengaluru,8.7,30,10,29025.35,2902.535,3,Young Trend Shoppers
+C0123,40,Male,Mumbai,20.4,36,15,62255.54,4150.369333333333,0,Premium Loyalists
+C0124,22,Female,Delhi,4.5,67,7,8777.380000000001,1253.9114285714288,3,Young Trend Shoppers
+C0125,49,Female,Bengaluru,12.0,7,16,50464.85,3154.053125,0,Premium Loyalists
+C0126,33,Male,Nagpur,9.3,74,9,14719.68,1635.52,1,Family Essential Buyers
+C0127,44,Female,Mumbai,4.9,3,9,11855.9,1317.322222222222,1,Family Essential Buyers
+C0128,38,Male,Pune,17.8,9,35,162640.57,4646.873428571429,0,Premium Loyalists
+C0129,30,Male,Delhi,15.8,4,22,47254.17,2147.916818181818,0,Premium Loyalists
+C0130,33,Male,Mumbai,8.4,31,9,21209.59,2356.621111111111,1,Family Essential Buyers
+C0131,36,Female,Nagpur,26.8,16,27,153309.6,5678.133333333333,0,Premium Loyalists
+C0132,44,Male,Pune,5.2,180,1,2097.06,2097.06,2,At-Risk / Inactive
+C0133,31,Male,Pune,11.5,33,9,20674.1,2297.1222222222223,1,Family Essential Buyers
+C0134,25,Female,Mumbai,4.6,71,5,4664.87,932.9739999999999,3,Young Trend Shoppers
+C0135,32,Female,Delhi,13.5,86,6,13265.0,2210.8333333333335,1,Family Essential Buyers
+C0136,39,Female,Delhi,16.0,1,17,62517.72,3677.5129411764706,0,Premium Loyalists
+C0137,38,Female,Pune,8.2,29,5,9966.55,1993.31,1,Family Essential Buyers
+C0138,33,Female,Pune,12.5,41,11,28172.31,2561.119090909091,1,Family Essential Buyers
+C0139,32,Male,Bengaluru,8.1,365,1,3233.16,3233.16,2,At-Risk / Inactive
+C0140,49,Female,Mumbai,15.5,7,41,108674.85,2650.6060975609757,0,Premium Loyalists
+C0141,38,Female,Bengaluru,9.7,7,8,21966.5,2745.8125,1,Family Essential Buyers
+C0142,31,Female,Mumbai,10.7,81,12,34003.26,2833.605,1,Family Essential Buyers
+C0143,26,Male,Delhi,13.1,365,1,1718.38,1718.38,2,At-Risk / Inactive
+C0144,32,Male,Bengaluru,11.8,183,11,24546.39,2231.49,1,Family Essential Buyers
+C0145,18,Male,Bengaluru,5.5,4,9,13199.69,1466.6322222222223,3,Young Trend Shoppers
+C0146,23,Female,Bengaluru,6.4,96,9,13343.99,1482.6655555555556,3,Young Trend Shoppers
+C0147,31,Male,Mumbai,5.2,18,10,18897.6,1889.7599999999998,3,Young Trend Shoppers
+C0148,42,Female,Delhi,6.3,114,4,7170.98,1792.745,1,Family Essential Buyers
+C0149,18,Male,Delhi,8.9,47,10,16079.09,1607.909,3,Young Trend Shoppers
+C0150,34,Female,Mumbai,21.5,26,56,343714.04,6137.750714285714,0,Premium Loyalists
+C0151,37,Female,Mumbai,4.1,260,1,1716.45,1716.45,2,At-Risk / Inactive
+C0152,19,Female,Mumbai,10.8,49,2,2381.45,1190.725,2,At-Risk / Inactive
+C0153,52,Female,Mumbai,14.4,29,17,69588.28,4093.4282352941177,0,Premium Loyalists
+C0154,32,Female,Mumbai,8.1,15,11,23887.87,2171.6245454545456,1,Family Essential Buyers
+C0155,38,Male,Delhi,23.6,2,26,81557.3,3136.8192307692307,0,Premium Loyalists
+C0156,45,Female,Delhi,11.4,134,8,25243.57,3155.44625,1,Family Essential Buyers
+C0157,33,Male,Mumbai,4.1,8,13,16454.23,1265.71,3,Young Trend Shoppers
+C0158,26,Male,Bengaluru,8.2,48,5,12312.98,2462.596,1,Family Essential Buyers
+C0159,35,Female,Pune,7.3,13,9,18366.68,2040.7422222222222,1,Family Essential Buyers
+C0160,44,Male,Nagpur,8.6,37,7,18790.57,2684.367142857143,1,Family Essential Buyers
+C0161,42,Male,Mumbai,19.5,4,49,176814.78,3608.464897959184,0,Premium Loyalists
+C0162,30,Male,Delhi,6.2,365,2,2783.3100000000004,1391.6550000000002,2,At-Risk / Inactive
+C0163,23,Male,Mumbai,4.2,36,10,14848.23,1484.8229999999999,3,Young Trend Shoppers
+C0164,47,Female,Mumbai,10.8,5,20,68526.8,3426.34,0,Premium Loyalists
+C0165,39,Female,Mumbai,13.3,13,13,28635.37,2202.7207692307693,1,Family Essential Buyers
+C0166,21,Male,Delhi,6.0,106,10,16560.67,1656.0669999999998,3,Young Trend Shoppers
+C0167,34,Male,Bengaluru,6.2,161,5,10092.81,2018.562,1,Family Essential Buyers
+C0168,40,Male,Bengaluru,8.0,97,2,1731.42,865.71,2,At-Risk / Inactive
+C0169,20,Female,Pune,7.4,14,13,16534.67,1271.897692307692,3,Young Trend Shoppers
+C0170,34,Female,Nagpur,7.7,98,8,12107.25,1513.40625,1,Family Essential Buyers
+C0171,43,Male,Pune,6.7,20,15,24642.98,1642.8653333333334,1,Family Essential Buyers
+C0172,40,Female,Bengaluru,12.1,14,16,46821.71,2926.356875,1,Family Essential Buyers
+C0173,30,Female,Bengaluru,9.2,43,10,14597.69,1459.769,3,Young Trend Shoppers
+C0174,30,Male,Delhi,11.9,116,1,2069.28,2069.28,2,At-Risk / Inactive
+C0175,35,Female,Delhi,27.3,64,19,61681.590000000004,3246.3994736842105,0,Premium Loyalists
+C0176,38,Male,Bengaluru,17.6,27,19,61412.84,3232.254736842105,0,Premium Loyalists
+C0177,36,Female,Delhi,6.3,14,5,5795.280000000001,1159.056,3,Young Trend Shoppers
+C0178,37,Female,Delhi,11.6,132,1,1258.61,1258.61,2,At-Risk / Inactive
+C0179,40,Female,Mumbai,9.1,127,1,2071.49,2071.49,2,At-Risk / Inactive
+C0180,33,Male,Delhi,10.6,97,7,14901.67,2128.81,1,Family Essential Buyers
+C0181,35,Male,Nagpur,10.1,10,1,2069.15,2069.15,2,At-Risk / Inactive
+C0182,38,Male,Bengaluru,14.4,87,4,7069.719999999999,1767.4299999999998,1,Family Essential Buyers
+C0183,44,Male,Delhi,8.5,58,16,32180.83,2011.301875,1,Family Essential Buyers
+C0184,40,Female,Delhi,7.5,6,12,14597.66,1216.4716666666666,1,Family Essential Buyers
+C0185,29,Female,Mumbai,9.7,91,13,17126.31,1317.4084615384616,3,Young Trend Shoppers
+C0186,25,Male,Bengaluru,10.7,77,7,10672.4,1524.6285714285714,3,Young Trend Shoppers
+C0187,18,Female,Mumbai,3.2,60,7,4166.16,595.1657142857142,3,Young Trend Shoppers
+C0188,32,Male,Mumbai,16.9,4,39,132771.78,3404.404615384615,0,Premium Loyalists
+C0189,37,Female,Mumbai,4.4,12,10,21446.96,2144.696,1,Family Essential Buyers
+C0190,25,Male,Nagpur,5.1,10,5,9868.0,1973.6,3,Young Trend Shoppers
+C0191,28,Female,Nagpur,11.7,64,5,9854.72,1970.944,1,Family Essential Buyers
+C0192,24,Female,Mumbai,7.7,32,18,24776.05,1376.447222222222,3,Young Trend Shoppers
+C0193,55,Female,Pune,18.9,18,19,111472.37000000001,5866.966842105264,0,Premium Loyalists
+C0194,27,Female,Delhi,3.6,95,1,1125.69,1125.69,2,At-Risk / Inactive
+C0195,49,Female,Mumbai,15.5,3,31,206781.74,6670.3787096774195,0,Premium Loyalists
+C0196,37,Female,Mumbai,6.5,19,18,85042.63,4724.5905555555555,1,Family Essential Buyers
+C0197,37,Female,Mumbai,7.4,3,10,30103.48,3010.348,1,Family Essential Buyers
+C0198,37,Male,Delhi,7.7,84,2,3572.31,1786.155,2,At-Risk / Inactive
+C0199,20,Female,Mumbai,6.6,82,8,8401.71,1050.21375,3,Young Trend Shoppers
+C0200,31,Male,Delhi,6.1,17,7,8370.91,1195.8442857142857,3,Young Trend Shoppers
+C0201,37,Female,Nagpur,13.8,78,11,21620.23,1965.4754545454546,1,Family Essential Buyers
+C0202,45,Female,Pune,12.7,8,3,6827.0599999999995,2275.6866666666665,1,Family Essential Buyers
+C0203,38,Female,Bengaluru,8.8,36,8,22315.13,2789.39125,1,Family Essential Buyers
+C0204,32,Male,Pune,13.2,8,23,134149.86,5832.602608695652,0,Premium Loyalists
+C0205,55,Male,Mumbai,8.7,9,39,225065.0,5770.897435897436,0,Premium Loyalists
+C0206,18,Male,Nagpur,5.4,128,9,18958.75,2106.527777777778,3,Young Trend Shoppers
+C0207,52,Female,Bengaluru,22.7,15,22,112814.94,5127.951818181818,0,Premium Loyalists
+C0208,40,Male,Pune,9.9,20,6,14036.86,2339.476666666667,1,Family Essential Buyers
+C0209,54,Female,Delhi,15.3,29,36,126662.2,3518.394444444444,0,Premium Loyalists
+C0210,34,Female,Mumbai,8.0,27,4,8013.32,2003.33,1,Family Essential Buyers
+C0211,30,Male,Mumbai,12.8,30,8,13532.91,1691.61375,1,Family Essential Buyers
+C0212,45,Male,Bengaluru,7.4,11,13,29703.88,2284.9138461538464,1,Family Essential Buyers
+C0213,34,Male,Mumbai,8.1,21,15,20684.42,1378.9613333333332,3,Young Trend Shoppers
+C0214,46,Female,Bengaluru,7.7,20,1,1202.17,1202.17,2,At-Risk / Inactive
+C0215,30,Male,Mumbai,10.4,44,4,7870.34,1967.585,1,Family Essential Buyers
+C0216,24,Female,Bengaluru,9.6,36,8,16727.89,2090.98625,3,Young Trend Shoppers
+C0217,44,Male,Delhi,8.3,15,28,238153.34,8505.476428571428,0,Premium Loyalists
+C0218,54,Female,Mumbai,21.2,2,18,71072.48,3948.471111111111,0,Premium Loyalists
+C0219,19,Female,Pune,6.2,365,1,1332.04,1332.04,2,At-Risk / Inactive
+C0220,32,Female,Delhi,3.4,41,16,19013.42,1188.33875,3,Young Trend Shoppers
+C0221,20,Male,Delhi,9.2,36,8,10539.31,1317.41375,3,Young Trend Shoppers
+C0222,43,Female,Bengaluru,14.7,5,9,17964.17,1996.0188888888888,1,Family Essential Buyers
+C0223,34,Male,Mumbai,5.9,27,5,17235.61,3447.1220000000003,1,Family Essential Buyers
+C0224,25,Female,Mumbai,8.7,312,2,3042.59,1521.295,2,At-Risk / Inactive
+C0225,27,Female,Delhi,4.6,11,8,13620.72,1702.59,3,Young Trend Shoppers
+C0226,38,Female,Bengaluru,6.2,22,1,1574.14,1574.14,2,At-Risk / Inactive
+C0227,38,Male,Mumbai,15.2,11,11,53726.02,4884.183636363636,0,Premium Loyalists
+C0228,35,Female,Mumbai,9.8,3,17,37794.29,2223.1935294117648,1,Family Essential Buyers
+C0229,37,Female,Mumbai,10.1,9,11,20201.940000000002,1836.5400000000002,1,Family Essential Buyers
+C0230,53,Male,Pune,14.9,26,33,132146.01,4004.4245454545458,0,Premium Loyalists
+C0231,37,Female,Delhi,13.8,39,35,295801.67,8451.476285714285,0,Premium Loyalists
+C0232,26,Female,Delhi,6.5,5,27,40402.62,1496.3933333333334,3,Young Trend Shoppers
+C0233,25,Male,Pune,10.9,79,1,2076.37,2076.37,2,At-Risk / Inactive
+C0234,29,Male,Mumbai,10.4,25,7,18887.920000000002,2698.274285714286,1,Family Essential Buyers
+C0235,20,Female,Nagpur,11.8,64,1,3671.37,3671.37,2,At-Risk / Inactive
+C0236,34,Male,Pune,8.5,234,3,3076.58,1025.5266666666666,2,At-Risk / Inactive
+C0237,18,Female,Delhi,6.0,17,20,27131.85,1356.5925,3,Young Trend Shoppers
+C0238,35,Male,Mumbai,10.0,152,1,2505.12,2505.12,2,At-Risk / Inactive
+C0239,51,Male,Mumbai,16.7,2,25,141901.36,5676.054399999999,0,Premium Loyalists
+C0240,40,Female,Mumbai,20.1,10,38,118852.27,3127.6913157894737,0,Premium Loyalists
+C0241,27,Female,Mumbai,9.7,229,3,4421.82,1473.9399999999998,2,At-Risk / Inactive
+C0242,36,Male,Mumbai,8.4,72,2,6155.79,3077.895,2,At-Risk / Inactive
+C0243,18,Female,Pune,2.4,33,14,16112.03,1150.8592857142858,3,Young Trend Shoppers
+C0244,31,Male,Delhi,9.7,57,4,12012.93,3003.2325,1,Family Essential Buyers
+C0245,37,Male,Pune,9.6,108,5,10488.220000000001,2097.6440000000002,1,Family Essential Buyers
+C0246,37,Male,Pune,10.3,365,1,952.93,952.93,2,At-Risk / Inactive
+C0247,44,Male,Nagpur,12.0,68,9,13575.87,1508.43,1,Family Essential Buyers
+C0248,18,Female,Delhi,5.8,33,18,25814.6,1434.1444444444444,3,Young Trend Shoppers
+C0249,18,Female,Delhi,6.1,10,12,13231.18,1102.5983333333334,3,Young Trend Shoppers
+C0250,29,Male,Pune,7.6,43,8,14987.79,1873.47375,3,Young Trend Shoppers
+C0251,35,Female,Delhi,8.9,42,2,3347.65,1673.825,2,At-Risk / Inactive
+C0252,33,Male,Bengaluru,12.9,182,3,6770.57,2256.8566666666666,2,At-Risk / Inactive
+C0253,45,Male,Bengaluru,8.5,74,17,22717.03,1336.2958823529411,1,Family Essential Buyers
+C0254,42,Female,Delhi,6.9,103,18,15082.24,837.9022222222222,1,Family Essential Buyers
+C0255,36,Male,Nagpur,7.0,21,12,28090.25,2340.8541666666665,1,Family Essential Buyers
+C0256,36,Male,Nagpur,10.2,42,9,19277.4,2141.9333333333334,1,Family Essential Buyers
+C0257,29,Male,Pune,9.9,161,5,6723.98,1344.7959999999998,2,At-Risk / Inactive
+C0258,35,Female,Pune,24.8,4,18,69825.04000000001,3879.1688888888893,0,Premium Loyalists
+C0259,23,Female,Delhi,12.8,35,29,148676.81,5126.786551724138,0,Premium Loyalists
+C0260,28,Male,Pune,13.7,211,7,15030.82,2147.2599999999998,1,Family Essential Buyers
+C0261,49,Female,Mumbai,28.5,35,17,50346.84,2961.5788235294117,0,Premium Loyalists
+C0262,28,Male,Bengaluru,8.2,365,2,1762.04,881.02,2,At-Risk / Inactive
+C0263,18,Female,Nagpur,5.4,20,11,15965.380000000001,1451.398181818182,3,Young Trend Shoppers
+C0264,37,Male,Mumbai,18.7,3,20,77828.72,3891.436,0,Premium Loyalists
+C0265,36,Male,Pune,6.1,54,1,863.47,863.47,2,At-Risk / Inactive
+C0266,31,Male,Mumbai,18.4,4,39,117381.89,3009.7920512820515,0,Premium Loyalists
+C0267,18,Female,Mumbai,5.3,2,12,9716.56,809.7133333333333,3,Young Trend Shoppers
+C0268,37,Male,Pune,12.4,13,22,77764.11,3534.7322727272726,0,Premium Loyalists
+C0269,36,Female,Bengaluru,20.4,5,27,102850.75,3809.287037037037,0,Premium Loyalists
+C0270,42,Male,Delhi,21.1,12,30,155919.4,5197.3133333333335,0,Premium Loyalists
+C0271,38,Male,Pune,12.2,12,28,140427.16,5015.255714285714,0,Premium Loyalists
+C0272,45,Female,Delhi,27.8,12,15,43731.85,2915.4566666666665,0,Premium Loyalists
+C0273,49,Female,Bengaluru,6.4,10,29,182366.32,6288.493793103448,0,Premium Loyalists
+C0274,38,Female,Mumbai,12.7,5,9,25439.32,2826.591111111111,1,Family Essential Buyers
+C0275,45,Male,Mumbai,10.1,279,13,29085.15,2237.3192307692307,1,Family Essential Buyers
+C0276,33,Male,Delhi,8.3,39,13,15367.619999999999,1182.1246153846153,3,Young Trend Shoppers
+C0277,27,Male,Delhi,6.1,48,12,15536.38,1294.6983333333333,3,Young Trend Shoppers
+C0278,25,Female,Bengaluru,12.3,33,4,7360.0599999999995,1840.0149999999999,2,At-Risk / Inactive
+C0279,36,Female,Delhi,10.6,365,1,1778.51,1778.51,2,At-Risk / Inactive
+C0280,32,Female,Pune,10.2,336,4,7029.639999999999,1757.4099999999999,2,At-Risk / Inactive
+C0281,39,Female,Mumbai,24.1,1,34,171089.58000000002,5032.046470588236,0,Premium Loyalists
+C0282,34,Female,Bengaluru,7.2,31,15,22478.25,1498.55,3,Young Trend Shoppers
+C0283,25,Male,Bengaluru,6.0,88,6,8493.71,1415.618333333333,3,Young Trend Shoppers
+C0284,24,Male,Delhi,5.6,37,10,15087.01,1508.701,3,Young Trend Shoppers
+C0285,36,Male,Mumbai,13.7,89,9,15468.47,1718.7188888888888,1,Family Essential Buyers
+C0286,26,Female,Pune,5.9,6,7,6894.82,984.9742857142857,3,Young Trend Shoppers
+C0287,36,Male,Nagpur,25.9,4,18,90768.93,5042.718333333333,0,Premium Loyalists
+C0288,27,Male,Nagpur,4.0,37,6,8771.79,1461.9650000000001,3,Young Trend Shoppers
+C0289,26,Female,Mumbai,14.8,312,8,23431.489999999998,2928.9362499999997,1,Family Essential Buyers
+C0290,54,Female,Mumbai,19.5,48,27,129733.76000000001,4804.954074074074,0,Premium Loyalists
+C0291,34,Female,Nagpur,8.6,34,3,3695.19,1231.73,2,At-Risk / Inactive
+C0292,24,Male,Bengaluru,14.9,33,27,125658.27,4654.01,0,Premium Loyalists
+C0293,29,Male,Delhi,9.4,13,7,14507.99,2072.57,3,Young Trend Shoppers
+C0294,52,Male,Delhi,23.3,12,43,151546.26,3524.331627906977,0,Premium Loyalists
+C0295,39,Male,Mumbai,10.9,103,5,12222.56,2444.5119999999997,1,Family Essential Buyers
+C0296,25,Male,Delhi,6.5,90,1,1701.8,1701.8,2,At-Risk / Inactive
+C0297,35,Male,Pune,8.9,8,3,7074.8099999999995,2358.27,1,Family Essential Buyers
+C0298,33,Female,Pune,12.4,365,1,1080.51,1080.51,2,At-Risk / Inactive
+C0299,45,Male,Mumbai,8.8,129,5,9492.82,1898.5639999999999,1,Family Essential Buyers
+C0300,31,Female,Bengaluru,11.8,78,13,28450.329999999998,2188.4869230769227,1,Family Essential Buyers
+C0301,41,Male,Delhi,10.3,159,11,27686.280000000002,2516.9345454545455,1,Family Essential Buyers
+C0302,31,Female,Mumbai,18.2,16,27,102050.16,3779.6355555555556,0,Premium Loyalists
+C0303,47,Female,Pune,4.7,70,4,7608.42,1902.105,1,Family Essential Buyers
+C0304,28,Female,Mumbai,7.7,14,6,22601.260000000002,3766.876666666667,1,Family Essential Buyers
+C0305,39,Female,Mumbai,7.0,76,1,2302.04,2302.04,2,At-Risk / Inactive
+C0306,18,Male,Bengaluru,2.3,19,16,24916.43,1557.276875,3,Young Trend Shoppers
+C0307,18,Female,Pune,5.5,1,14,12509.49,893.535,3,Young Trend Shoppers
+C0308,53,Male,Bengaluru,10.9,25,4,8704.44,2176.11,1,Family Essential Buyers
+C0309,30,Male,Mumbai,7.6,53,18,27680.14,1537.7855555555554,3,Young Trend Shoppers
+C0310,24,Male,Mumbai,22.9,8,47,213607.07,4544.831276595744,0,Premium Loyalists
+C0311,26,Female,Mumbai,6.5,2,12,16789.27,1399.1058333333333,3,Young Trend Shoppers
+C0312,28,Male,Bengaluru,6.5,57,6,7025.33,1170.8883333333333,3,Young Trend Shoppers
+C0313,36,Female,Delhi,4.5,48,12,17534.7,1461.2250000000001,3,Young Trend Shoppers
+C0314,22,Female,Nagpur,2.3,12,13,13835.38,1064.26,3,Young Trend Shoppers
+C0315,33,Female,Mumbai,6.4,7,10,13269.27,1326.9270000000001,3,Young Trend Shoppers
+C0316,36,Male,Mumbai,6.0,17,12,15717.41,1309.7841666666666,3,Young Trend Shoppers
+C0317,26,Male,Mumbai,3.7,92,11,20229.629999999997,1839.0572727272724,3,Young Trend Shoppers
+C0318,28,Female,Bengaluru,10.5,17,15,27209.35,1813.9566666666665,3,Young Trend Shoppers
+C0319,29,Female,Bengaluru,6.0,59,12,22048.670000000002,1837.3891666666668,3,Young Trend Shoppers
+C0320,24,Male,Mumbai,5.6,216,1,1665.62,1665.62,2,At-Risk / Inactive
+C0321,30,Male,Nagpur,9.4,75,3,6707.65,2235.883333333333,2,At-Risk / Inactive
+C0322,35,Male,Delhi,14.1,153,4,14683.26,3670.815,1,Family Essential Buyers
+C0323,20,Female,Bengaluru,5.2,73,14,13074.93,933.9235714285714,3,Young Trend Shoppers
+C0324,33,Female,Delhi,10.2,10,9,22484.73,2498.3033333333333,1,Family Essential Buyers
+C0325,29,Male,Delhi,10.7,365,5,6819.9400000000005,1363.988,2,At-Risk / Inactive
+C0326,38,Female,Bengaluru,14.0,172,8,19856.85,2482.10625,1,Family Essential Buyers
+C0327,43,Female,Delhi,12.4,164,1,1751.82,1751.82,2,At-Risk / Inactive
+C0328,46,Male,Mumbai,9.4,2,13,32692.82,2514.8323076923075,1,Family Essential Buyers
+C0329,50,Female,Pune,9.2,189,6,15461.89,2576.9816666666666,1,Family Essential Buyers
+C0330,32,Female,Pune,4.4,59,10,16326.470000000001,1632.6470000000002,3,Young Trend Shoppers
+C0331,42,Male,Bengaluru,5.4,84,3,8017.15,2672.383333333333,1,Family Essential Buyers
+C0332,34,Female,Bengaluru,8.6,13,6,11178.24,1863.04,1,Family Essential Buyers
+C0333,41,Female,Pune,10.3,132,3,8906.17,2968.7233333333334,1,Family Essential Buyers
+C0334,43,Male,Mumbai,8.7,108,1,1940.34,1940.34,2,At-Risk / Inactive
+C0335,29,Female,Bengaluru,16.5,36,24,199622.65,8317.610416666666,0,Premium Loyalists
+C0336,39,Male,Delhi,11.3,87,4,8408.66,2102.165,1,Family Essential Buyers
+C0337,59,Female,Delhi,23.7,33,26,153246.81,5894.108076923077,0,Premium Loyalists
+C0338,49,Male,Mumbai,10.2,71,7,15276.27,2182.324285714286,1,Family Essential Buyers
+C0339,48,Female,Nagpur,7.6,5,29,146463.62,5050.469655172414,0,Premium Loyalists
+C0340,40,Male,Mumbai,10.6,365,2,4821.16,2410.58,2,At-Risk / Inactive
+C0341,45,Male,Bengaluru,14.9,9,26,107109.18,4119.583846153846,0,Premium Loyalists
+C0342,34,Female,Delhi,7.8,120,6,11785.93,1964.3216666666667,1,Family Essential Buyers
+C0343,38,Male,Mumbai,13.2,100,2,6162.84,3081.42,2,At-Risk / Inactive
+C0344,35,Female,Pune,16.1,86,10,13964.32,1396.432,1,Family Essential Buyers
+C0345,32,Male,Pune,9.4,57,1,1318.91,1318.91,2,At-Risk / Inactive
+C0346,54,Male,Mumbai,11.3,27,1,2337.79,2337.79,2,At-Risk / Inactive
+C0347,31,Male,Bengaluru,7.4,218,1,481.8,481.8,2,At-Risk / Inactive
+C0348,19,Male,Bengaluru,7.8,13,4,3901.26,975.315,3,Young Trend Shoppers
+C0349,46,Male,Bengaluru,10.5,3,7,12867.42,1838.202857142857,1,Family Essential Buyers
+C0350,49,Male,Mumbai,24.3,14,18,59599.36,3311.0755555555556,0,Premium Loyalists
+C0351,33,Female,Bengaluru,10.7,19,15,37371.28,2491.4186666666665,1,Family Essential Buyers
+C0352,42,Female,Nagpur,17.3,2,23,115498.54000000001,5021.6756521739135,0,Premium Loyalists
+C0353,59,Male,Delhi,10.9,30,12,25064.97,2088.7475,1,Family Essential Buyers
+C0354,27,Male,Mumbai,14.0,114,11,19515.8,1774.1636363636362,1,Family Essential Buyers
+C0355,34,Male,Mumbai,6.0,2,19,33499.520000000004,1763.1326315789477,3,Young Trend Shoppers
+C0356,49,Male,Mumbai,13.2,48,17,32226.46,1895.6741176470587,1,Family Essential Buyers
+C0357,33,Male,Pune,12.7,20,10,23125.52,2312.552,1,Family Essential Buyers
+C0358,28,Male,Nagpur,11.4,292,4,10204.07,2551.0175,2,At-Risk / Inactive
+C0359,39,Female,Bengaluru,8.5,12,7,22329.58,3189.94,1,Family Essential Buyers
+C0360,48,Male,Bengaluru,10.8,4,2,5364.71,2682.355,1,Family Essential Buyers
+C0361,40,Female,Nagpur,11.5,152,3,4295.52,1431.8400000000001,2,At-Risk / Inactive
+C0362,37,Female,Nagpur,15.3,29,26,127248.19,4894.161153846154,0,Premium Loyalists
+C0363,52,Male,Delhi,16.5,9,24,84238.03,3509.9179166666668,0,Premium Loyalists
+C0364,40,Female,Delhi,13.9,7,26,122822.33,4723.935769230769,0,Premium Loyalists
+C0365,33,Female,Mumbai,9.0,21,11,33547.77,3049.7972727272722,1,Family Essential Buyers
+C0366,19,Female,Delhi,5.6,24,22,28813.170000000002,1309.6895454545456,3,Young Trend Shoppers
+C0367,39,Male,Nagpur,9.5,3,9,17984.31,1998.256666666667,1,Family Essential Buyers
+C0368,40,Female,Mumbai,14.2,19,5,12651.3,2530.2599999999998,1,Family Essential Buyers
+C0369,18,Female,Delhi,4.3,58,10,9152.32,915.232,3,Young Trend Shoppers
+C0370,35,Female,Mumbai,6.3,272,1,1545.6,1545.6,2,At-Risk / Inactive
+C0371,46,Male,Mumbai,9.7,9,8,15768.119999999999,1971.0149999999999,1,Family Essential Buyers
+C0372,41,Female,Mumbai,5.2,38,4,4638.63,1159.6575,2,At-Risk / Inactive
+C0373,23,Male,Bengaluru,8.9,6,7,7913.5,1130.5,3,Young Trend Shoppers
+C0374,20,Male,Pune,4.4,14,8,15885.14,1985.6425,3,Young Trend Shoppers
+C0375,36,Male,Delhi,12.3,21,30,160977.61000000002,5365.9203333333335,0,Premium Loyalists
+C0376,38,Male,Mumbai,9.2,27,18,77164.61,4286.922777777778,0,Premium Loyalists
+C0377,34,Male,Pune,11.9,77,1,1931.87,1931.87,2,At-Risk / Inactive
+C0378,18,Female,Pune,6.6,84,12,15794.93,1316.2441666666666,3,Young Trend Shoppers
+C0379,24,Female,Bengaluru,2.0,26,15,15355.19,1023.6793333333334,3,Young Trend Shoppers
+C0380,41,Female,Bengaluru,5.4,81,6,11549.85,1924.9750000000001,1,Family Essential Buyers
+C0381,47,Male,Bengaluru,5.9,45,8,25728.67,3216.08375,1,Family Essential Buyers
+C0382,29,Female,Pune,9.4,33,2,2969.42,1484.71,2,At-Risk / Inactive
+C0383,32,Female,Delhi,9.1,209,3,4778.24,1592.7466666666667,2,At-Risk / Inactive
+C0384,24,Female,Bengaluru,5.3,14,9,16203.54,1800.3933333333334,3,Young Trend Shoppers
+C0385,31,Male,Nagpur,6.8,1,27,54969.7,2035.9148148148147,3,Young Trend Shoppers
+C0386,37,Male,Bengaluru,7.7,30,1,2201.25,2201.25,2,At-Risk / Inactive
+C0387,31,Male,Mumbai,11.4,60,7,16127.32,2303.902857142857,1,Family Essential Buyers
+C0388,41,Male,Mumbai,10.5,7,5,10789.23,2157.846,1,Family Essential Buyers
+C0389,40,Female,Bengaluru,15.6,16,16,56377.8,3523.6125,0,Premium Loyalists
+C0390,33,Male,Mumbai,9.2,127,1,1105.86,1105.86,2,At-Risk / Inactive
+C0391,37,Female,Nagpur,12.6,1,6,33382.91,5563.818333333334,0,Premium Loyalists
+C0392,53,Female,Mumbai,16.2,20,24,99058.51,4127.437916666667,0,Premium Loyalists
+C0393,23,Female,Bengaluru,13.5,112,8,19690.83,2461.35375,1,Family Essential Buyers
+C0394,33,Male,Mumbai,8.6,47,5,15169.13,3033.826,1,Family Essential Buyers
+C0395,32,Male,Mumbai,17.7,15,15,99901.86,6660.124,0,Premium Loyalists
+C0396,18,Male,Mumbai,6.9,14,13,15357.94,1181.38,3,Young Trend Shoppers
+C0397,38,Female,Mumbai,10.4,139,1,946.05,946.05,2,At-Risk / Inactive
+C0398,20,Female,Delhi,5.5,18,6,11440.67,1906.7783333333334,3,Young Trend Shoppers
+C0399,29,Female,Mumbai,6.7,135,19,30786.6,1620.3473684210526,3,Young Trend Shoppers
+C0400,18,Male,Delhi,5.2,197,12,19607.71,1633.9758333333332,3,Young Trend Shoppers
+C0401,32,Male,Pune,6.9,13,19,47023.25,2474.907894736842,3,Young Trend Shoppers
+C0402,24,Male,Delhi,10.0,365,6,10331.57,1721.9283333333333,2,At-Risk / Inactive
+C0403,37,Female,Delhi,8.1,69,1,1573.77,1573.77,2,At-Risk / Inactive
+C0404,41,Male,Mumbai,14.2,10,15,122606.45000000001,8173.763333333334,0,Premium Loyalists
+C0405,32,Male,Nagpur,2.6,365,5,8754.86,1750.9720000000002,2,At-Risk / Inactive
+C0406,29,Female,Mumbai,6.6,55,5,7909.460000000001,1581.8920000000003,3,Young Trend Shoppers
+C0407,34,Female,Mumbai,8.8,71,12,12296.27,1024.6891666666668,3,Young Trend Shoppers
+C0408,18,Male,Bengaluru,7.4,33,2,3041.99,1520.995,2,At-Risk / Inactive
+C0409,25,Female,Nagpur,22.0,2,24,129779.79,5407.49125,0,Premium Loyalists
+C0410,25,Male,Mumbai,9.2,119,1,3063.48,3063.48,2,At-Risk / Inactive
+C0411,35,Female,Mumbai,4.8,44,5,9594.689999999999,1918.9379999999996,1,Family Essential Buyers
+C0412,32,Female,Mumbai,10.1,39,13,19596.239999999998,1507.4030769230767,1,Family Essential Buyers
+C0413,34,Female,Delhi,16.8,22,13,92513.33,7116.41,0,Premium Loyalists
+C0414,31,Male,Pune,8.5,365,1,828.32,828.32,2,At-Risk / Inactive
+C0415,34,Male,Delhi,27.3,4,12,64969.29,5414.1075,0,Premium Loyalists
+C0416,18,Female,Nagpur,4.9,14,12,14894.02,1241.1683333333333,3,Young Trend Shoppers
+C0417,31,Male,Mumbai,25.2,24,27,115344.77,4272.0285185185185,0,Premium Loyalists
+C0418,39,Female,Mumbai,7.0,11,11,26418.7,2401.7000000000003,1,Family Essential Buyers
+C0419,27,Male,Mumbai,6.7,40,13,22950.5,1765.423076923077,3,Young Trend Shoppers
+C0420,24,Female,Delhi,5.2,207,1,1425.12,1425.12,2,At-Risk / Inactive
+C0421,45,Female,Mumbai,10.2,22,10,17059.7,1705.97,1,Family Essential Buyers
+C0422,40,Female,Bengaluru,18.3,2,15,47495.45,3166.3633333333332,0,Premium Loyalists
+C0423,39,Male,Bengaluru,15.8,4,14,40080.270000000004,2862.8764285714287,0,Premium Loyalists
+C0424,37,Male,Mumbai,15.7,12,23,93806.16,4078.528695652174,0,Premium Loyalists
+C0425,32,Female,Pune,5.9,138,6,12040.98,2006.83,1,Family Essential Buyers
+C0426,39,Male,Bengaluru,11.5,168,1,690.04,690.04,2,At-Risk / Inactive
+C0427,34,Female,Bengaluru,5.2,1,5,5916.32,1183.264,3,Young Trend Shoppers
+C0428,36,Female,Delhi,11.5,250,2,2841.56,1420.78,2,At-Risk / Inactive
+C0429,50,Female,Delhi,25.0,16,24,110641.26,4610.0525,0,Premium Loyalists
+C0430,30,Female,Mumbai,11.0,53,3,4689.99,1563.33,2,At-Risk / Inactive
+C0431,28,Male,Bengaluru,5.2,46,1,1183.59,1183.59,2,At-Risk / Inactive
+C0432,26,Female,Pune,10.5,110,8,19180.61,2397.57625,1,Family Essential Buyers
+C0433,38,Male,Mumbai,15.0,21,6,17130.66,2855.11,1,Family Essential Buyers
+C0434,38,Male,Bengaluru,7.6,24,2,3364.7200000000003,1682.3600000000001,2,At-Risk / Inactive
+C0435,43,Female,Mumbai,25.3,35,34,135442.68,3983.6082352941175,0,Premium Loyalists
+C0436,18,Female,Mumbai,8.0,26,9,13617.75,1513.0833333333333,3,Young Trend Shoppers
+C0437,43,Male,Pune,16.3,8,18,94224.72,5234.706666666667,0,Premium Loyalists
+C0438,27,Male,Pune,11.4,63,7,18074.93,2582.132857142857,1,Family Essential Buyers
+C0439,21,Male,Mumbai,8.2,163,8,17503.39,2187.92375,3,Young Trend Shoppers
+C0440,34,Male,Mumbai,8.7,85,8,17565.9,2195.7375,1,Family Essential Buyers
+C0441,27,Female,Mumbai,7.2,182,2,6301.08,3150.54,2,At-Risk / Inactive
+C0442,53,Male,Mumbai,23.7,18,24,61399.69,2558.320416666667,0,Premium Loyalists
+C0443,41,Female,Mumbai,10.5,38,9,20201.9,2244.6555555555556,1,Family Essential Buyers
+C0444,23,Male,Mumbai,5.1,7,4,8296.9,2074.225,3,Young Trend Shoppers
+C0445,25,Male,Pune,3.5,10,14,15527.54,1109.1100000000001,3,Young Trend Shoppers
+C0446,41,Female,Bengaluru,10.2,69,11,28043.89,2549.4445454545453,1,Family Essential Buyers
+C0447,40,Female,Bengaluru,5.6,58,1,2082.74,2082.74,2,At-Risk / Inactive
+C0448,47,Male,Bengaluru,10.6,23,6,9461.28,1576.88,1,Family Essential Buyers
+C0449,47,Female,Nagpur,20.6,12,47,223982.72,4765.589787234043,0,Premium Loyalists
+C0450,39,Female,Pune,11.0,44,11,30530.72,2775.52,1,Family Essential Buyers
+C0451,38,Female,Mumbai,17.8,58,28,130415.76000000001,4657.705714285715,0,Premium Loyalists
+C0452,29,Female,Delhi,10.0,302,4,5741.41,1435.3525,2,At-Risk / Inactive
+C0453,47,Female,Bengaluru,8.0,103,6,14706.029999999999,2451.0049999999997,1,Family Essential Buyers
+C0454,42,Female,Bengaluru,26.8,22,20,79014.85,3950.7425000000003,0,Premium Loyalists
+C0455,40,Male,Mumbai,8.5,1,20,75073.64,3753.682,0,Premium Loyalists
+C0456,18,Female,Mumbai,6.6,11,9,9303.11,1033.6788888888889,3,Young Trend Shoppers
+C0457,36,Female,Bengaluru,10.1,198,2,5586.67,2793.335,2,At-Risk / Inactive
+C0458,37,Female,Pune,5.6,19,8,14929.460000000001,1866.1825000000001,1,Family Essential Buyers
+C0459,43,Female,Delhi,11.9,32,2,3189.02,1594.51,2,At-Risk / Inactive
+C0460,23,Female,Bengaluru,11.4,37,10,24778.97,2477.897,3,Young Trend Shoppers
+C0461,22,Male,Mumbai,8.8,14,8,15449.06,1931.1325,3,Young Trend Shoppers
+C0462,39,Male,Delhi,8.8,4,34,131346.78,3863.140588235294,0,Premium Loyalists
+C0463,18,Female,Pune,12.0,316,1,1422.79,1422.79,2,At-Risk / Inactive
+C0464,18,Female,Pune,5.7,9,9,9500.869999999999,1055.652222222222,3,Young Trend Shoppers
+C0465,43,Female,Mumbai,9.9,16,10,11802.98,1180.298,1,Family Essential Buyers
+C0466,50,Female,Bengaluru,11.4,1,3,12197.44,4065.8133333333335,1,Family Essential Buyers
+C0467,25,Male,Nagpur,11.4,4,6,13553.11,2258.851666666667,3,Young Trend Shoppers
+C0468,32,Female,Delhi,12.4,365,5,10952.17,2190.434,2,At-Risk / Inactive
+C0469,57,Female,Delhi,11.9,28,22,109588.17,4981.280454545455,0,Premium Loyalists
+C0470,40,Male,Mumbai,6.9,9,8,17642.33,2205.29125,1,Family Essential Buyers
+C0471,25,Female,Bengaluru,4.5,3,9,10437.17,1159.6855555555555,3,Young Trend Shoppers
+C0472,26,Male,Mumbai,4.4,33,13,15955.11,1227.3161538461538,3,Young Trend Shoppers
+C0473,37,Female,Delhi,18.5,1,13,70869.97,5451.536153846154,0,Premium Loyalists
+C0474,53,Male,Mumbai,18.2,15,18,73882.6,4104.588888888889,0,Premium Loyalists
+C0475,18,Male,Mumbai,4.4,56,11,20563.59,1869.4172727272728,3,Young Trend Shoppers
+C0476,23,Female,Mumbai,4.3,1,21,26637.97,1268.4747619047619,3,Young Trend Shoppers
+C0477,18,Female,Mumbai,6.7,30,7,6592.9,941.842857142857,3,Young Trend Shoppers
+C0478,39,Female,Delhi,10.0,3,7,15576.38,2225.197142857143,1,Family Essential Buyers
+C0479,43,Female,Delhi,12.6,49,15,38974.62,2598.308,1,Family Essential Buyers
+C0480,19,Male,Mumbai,5.5,7,14,28542.88,2038.777142857143,3,Young Trend Shoppers
+C0481,26,Female,Bengaluru,7.8,92,3,5419.2,1806.3999999999999,2,At-Risk / Inactive
+C0482,18,Female,Pune,5.6,85,8,9294.15,1161.76875,3,Young Trend Shoppers
+C0483,43,Female,Delhi,7.8,9,7,12741.26,1820.18,1,Family Essential Buyers
+C0484,26,Male,Bengaluru,3.5,18,23,21359.55,928.6760869565217,3,Young Trend Shoppers
+C0485,44,Female,Mumbai,20.0,3,16,89028.15,5564.259375,0,Premium Loyalists
+C0486,26,Male,Mumbai,6.8,7,6,8711.36,1451.8933333333334,3,Young Trend Shoppers
+C0487,31,Female,Delhi,6.4,78,9,11793.84,1310.4266666666667,3,Young Trend Shoppers
+C0488,18,Female,Mumbai,4.0,7,9,17525.46,1947.2733333333333,3,Young Trend Shoppers
+C0489,22,Male,Nagpur,8.5,200,10,22499.28,2249.928,3,Young Trend Shoppers
+C0490,30,Female,Delhi,13.3,11,13,27375.46,2105.8046153846153,1,Family Essential Buyers
+C0491,32,Female,Nagpur,8.8,45,10,13111.99,1311.199,3,Young Trend Shoppers
+C0492,40,Female,Delhi,13.5,183,6,8569.82,1428.3033333333333,1,Family Essential Buyers
+C0493,31,Male,Mumbai,10.0,39,9,29770.57,3307.841111111111,1,Family Essential Buyers
+C0494,27,Male,Pune,6.1,78,11,17738.12,1612.5563636363636,3,Young Trend Shoppers
+C0495,33,Female,Mumbai,12.0,171,4,9632.72,2408.18,1,Family Essential Buyers
+C0496,41,Female,Bengaluru,11.5,86,9,32174.97,3574.996666666667,1,Family Essential Buyers
+C0497,27,Female,Pune,4.2,5,15,14495.27,966.3513333333334,3,Young Trend Shoppers
+C0498,37,Male,Nagpur,8.4,5,4,6322.32,1580.58,1,Family Essential Buyers
+C0499,18,Female,Pune,4.9,1,18,25513.58,1417.4211111111113,3,Young Trend Shoppers
+C0500,39,Male,Bengaluru,10.8,43,7,26294.36,3756.337142857143,1,Family Essential Buyers
+C0501,41,Male,Delhi,10.9,13,5,13084.15,2616.83,1,Family Essential Buyers
+C0502,34,Male,Mumbai,5.7,365,3,5591.49,1863.83,2,At-Risk / Inactive
+C0503,36,Female,Pune,8.6,142,3,3509.0,1169.6666666666667,2,At-Risk / Inactive
+C0504,23,Male,Delhi,8.6,29,1,746.4,746.4,2,At-Risk / Inactive
+C0505,42,Female,Pune,9.6,64,8,11492.02,1436.5025,1,Family Essential Buyers
+C0506,23,Female,Bengaluru,9.9,56,1,1554.5,1554.5,2,At-Risk / Inactive
+C0507,38,Male,Pune,7.4,7,9,7766.28,862.92,3,Young Trend Shoppers
+C0508,30,Female,Bengaluru,11.3,365,1,1438.87,1438.87,2,At-Risk / Inactive
+C0509,41,Male,Pune,7.8,8,10,31079.71,3107.971,1,Family Essential Buyers
+C0510,24,Female,Pune,25.7,2,11,50748.1,4613.463636363636,0,Premium Loyalists
+C0511,35,Male,Bengaluru,18.1,2,31,164945.06,5320.808387096774,0,Premium Loyalists
+C0512,43,Female,Bengaluru,12.7,2,1,1773.46,1773.46,2,At-Risk / Inactive
+C0513,44,Female,Delhi,18.0,31,15,57493.97,3832.9313333333334,0,Premium Loyalists
+C0514,18,Male,Mumbai,4.3,20,27,40493.21,1499.7485185185185,3,Young Trend Shoppers
+C0515,18,Female,Delhi,6.7,20,19,24328.32,1280.437894736842,3,Young Trend Shoppers
+C0516,41,Female,Pune,11.2,33,28,83654.55,2987.6625,0,Premium Loyalists
+C0517,24,Male,Delhi,6.9,13,14,16100.1,1150.007142857143,3,Young Trend Shoppers
+C0518,34,Female,Pune,9.8,44,6,12154.880000000001,2025.8133333333335,1,Family Essential Buyers
+C0519,49,Female,Pune,14.8,25,22,89207.55,4054.8886363636366,0,Premium Loyalists
+C0520,35,Female,Delhi,11.1,8,2,3362.08,1681.04,2,At-Risk / Inactive
+C0521,18,Female,Mumbai,5.9,124,1,1088.58,1088.58,2,At-Risk / Inactive
+C0522,36,Male,Mumbai,6.6,24,9,16378.89,1819.8766666666666,1,Family Essential Buyers
+C0523,38,Male,Mumbai,13.6,43,24,119327.99,4971.999583333333,0,Premium Loyalists
+C0524,23,Female,Mumbai,10.6,33,13,29440.309999999998,2264.6392307692304,3,Young Trend Shoppers
+C0525,42,Female,Delhi,14.1,12,21,125041.19,5954.342380952381,0,Premium Loyalists
+C0526,34,Male,Delhi,7.9,8,19,40992.47,2157.498421052632,1,Family Essential Buyers
+C0527,44,Male,Delhi,9.6,365,4,7799.150000000001,1949.7875000000001,2,At-Risk / Inactive
+C0528,33,Female,Pune,4.9,57,3,5940.71,1980.2366666666667,2,At-Risk / Inactive
+C0529,22,Female,Bengaluru,9.7,6,6,13778.61,2296.435,3,Young Trend Shoppers
+C0530,30,Male,Mumbai,2.5,4,14,20423.71,1458.8364285714285,3,Young Trend Shoppers
+C0531,42,Female,Pune,15.1,53,7,10640.59,1520.0842857142857,1,Family Essential Buyers
+C0532,44,Female,Bengaluru,10.4,24,4,5265.62,1316.405,1,Family Essential Buyers
+C0533,28,Female,Nagpur,7.6,65,22,40314.38,1832.471818181818,3,Young Trend Shoppers
+C0534,36,Female,Nagpur,11.9,5,7,24826.32,3546.617142857143,1,Family Essential Buyers
+C0535,39,Female,Pune,25.5,27,37,206561.53,5582.744054054054,0,Premium Loyalists
+C0536,26,Female,Nagpur,6.7,18,4,5815.1,1453.775,3,Young Trend Shoppers
+C0537,46,Female,Delhi,15.5,27,14,30823.63,2201.6878571428574,1,Family Essential Buyers
+C0538,32,Male,Pune,21.0,5,27,149027.05,5519.52037037037,0,Premium Loyalists
+C0539,40,Male,Mumbai,20.5,10,28,101331.29000000001,3618.974642857143,0,Premium Loyalists
+C0540,43,Female,Mumbai,10.4,37,4,8313.7,2078.425,1,Family Essential Buyers
+C0541,31,Female,Pune,6.2,172,2,3636.73,1818.365,2,At-Risk / Inactive
+C0542,36,Female,Mumbai,5.2,33,8,19379.7,2422.4625,1,Family Essential Buyers
+C0543,34,Male,Delhi,8.3,93,2,2124.87,1062.435,2,At-Risk / Inactive
+C0544,22,Female,Pune,4.5,365,1,1836.76,1836.76,2,At-Risk / Inactive
+C0545,42,Male,Bengaluru,14.5,18,9,41303.15,4589.238888888889,0,Premium Loyalists
+C0546,28,Male,Mumbai,5.9,29,11,21868.649999999998,1988.0590909090906,3,Young Trend Shoppers
+C0547,39,Male,Delhi,7.4,34,8,16554.71,2069.33875,1,Family Essential Buyers
+C0548,30,Female,Pune,18.4,1,20,65319.91,3265.9955,0,Premium Loyalists
+C0549,49,Male,Pune,9.6,98,16,38579.6,2411.225,1,Family Essential Buyers
+C0550,28,Male,Delhi,7.8,4,5,9548.710000000001,1909.7420000000002,3,Young Trend Shoppers
+C0551,18,Female,Delhi,4.9,36,15,26181.0,1745.4,3,Young Trend Shoppers
+C0552,41,Female,Nagpur,18.4,15,30,155632.41,5187.747,0,Premium Loyalists
+C0553,38,Male,Pune,3.3,65,8,13483.52,1685.44,1,Family Essential Buyers
+C0554,37,Female,Mumbai,9.9,159,2,5599.76,2799.88,2,At-Risk / Inactive
+C0555,39,Male,Delhi,16.8,8,17,82264.91,4839.112352941177,0,Premium Loyalists
+C0556,35,Female,Pune,8.7,51,16,26967.329999999998,1685.4581249999999,1,Family Essential Buyers
+C0557,36,Female,Pune,6.3,7,13,24302.69,1869.4376923076923,1,Family Essential Buyers
+C0558,33,Male,Mumbai,10.1,66,12,23577.08,1964.756666666667,1,Family Essential Buyers
+C0559,29,Female,Mumbai,6.4,29,14,24163.13,1725.9378571428572,3,Young Trend Shoppers
+C0560,30,Female,Mumbai,10.7,113,3,7436.759999999999,2478.9199999999996,2,At-Risk / Inactive
+C0561,37,Female,Bengaluru,18.2,6,18,82913.93,4606.329444444444,0,Premium Loyalists
+C0562,20,Male,Mumbai,5.7,62,12,14265.36,1188.78,3,Young Trend Shoppers
+C0563,34,Female,Pune,5.7,65,4,10591.81,2647.9525,1,Family Essential Buyers
+C0564,32,Male,Bengaluru,9.1,27,7,12568.52,1795.5028571428572,1,Family Essential Buyers
+C0565,38,Female,Pune,9.6,53,9,17906.059999999998,1989.5622222222219,1,Family Essential Buyers
+C0566,49,Female,Delhi,7.2,15,3,7019.66,2339.8866666666668,1,Family Essential Buyers
+C0567,45,Male,Mumbai,13.2,101,11,22900.78,2081.889090909091,1,Family Essential Buyers
+C0568,40,Male,Pune,24.7,17,6,32693.67,5448.945,0,Premium Loyalists
+C0569,42,Male,Pune,5.1,35,13,25579.88,1967.683076923077,1,Family Essential Buyers
+C0570,37,Male,Delhi,7.8,21,5,9801.33,1960.266,1,Family Essential Buyers
+C0571,18,Male,Mumbai,6.9,28,11,16819.38,1529.0345454545457,3,Young Trend Shoppers
+C0572,30,Female,Delhi,11.9,145,1,2407.59,2407.59,2,At-Risk / Inactive
+C0573,21,Female,Nagpur,11.6,18,12,27355.670000000002,2279.639166666667,3,Young Trend Shoppers
+C0574,27,Female,Mumbai,11.0,34,10,21108.69,2110.8689999999997,1,Family Essential Buyers
+C0575,30,Male,Nagpur,7.8,136,3,3026.07,1008.69,2,At-Risk / Inactive
+C0576,42,Male,Mumbai,11.8,92,6,11877.4,1979.5666666666666,1,Family Essential Buyers
+C0577,31,Male,Pune,10.7,276,1,916.93,916.93,2,At-Risk / Inactive
+C0578,35,Female,Delhi,9.4,103,3,7459.76,2486.5866666666666,2,At-Risk / Inactive
+C0579,46,Female,Mumbai,8.7,70,1,1707.55,1707.55,2,At-Risk / Inactive
+C0580,30,Female,Pune,7.9,47,7,9496.24,1356.6057142857142,3,Young Trend Shoppers
+C0581,35,Female,Mumbai,9.7,80,9,30614.38,3401.597777777778,1,Family Essential Buyers
+C0582,35,Male,Delhi,8.5,28,11,34195.92,3108.72,1,Family Essential Buyers
+C0583,50,Female,Bengaluru,22.9,5,22,132673.07,6030.594090909091,0,Premium Loyalists
+C0584,18,Male,Mumbai,6.3,13,6,11452.58,1908.7633333333333,3,Young Trend Shoppers
+C0585,32,Female,Pune,10.5,108,2,2669.51,1334.755,2,At-Risk / Inactive
+C0586,33,Male,Delhi,5.1,34,2,7342.57,3671.285,1,Family Essential Buyers
+C0587,45,Male,Delhi,24.9,25,13,40411.67,3108.5899999999997,0,Premium Loyalists
+C0588,21,Male,Mumbai,4.1,9,9,14990.48,1665.608888888889,3,Young Trend Shoppers
+C0589,22,Female,Delhi,6.0,13,4,7726.51,1931.6275,3,Young Trend Shoppers
+C0590,51,Male,Delhi,15.0,3,31,114721.42,3700.6909677419353,0,Premium Loyalists
+C0591,22,Female,Nagpur,7.2,314,1,2679.33,2679.33,2,At-Risk / Inactive
+C0592,35,Female,Pune,4.9,46,30,38921.6,1297.3866666666665,3,Young Trend Shoppers
+C0593,25,Male,Bengaluru,6.4,39,16,22628.54,1414.28375,3,Young Trend Shoppers
+C0594,47,Male,Delhi,10.9,156,4,10343.56,2585.89,1,Family Essential Buyers
+C0595,40,Female,Bengaluru,24.4,22,24,87051.65,3627.152083333333,0,Premium Loyalists
+C0596,21,Male,Bengaluru,2.9,74,13,18010.260000000002,1385.4046153846155,3,Young Trend Shoppers
+C0597,34,Male,Nagpur,10.3,56,9,30167.1,3351.8999999999996,1,Family Essential Buyers
+C0598,33,Male,Mumbai,15.0,13,10,53530.56,5353.056,0,Premium Loyalists
+C0599,33,Female,Mumbai,7.5,29,1,1439.29,1439.29,2,At-Risk / Inactive
+C0600,47,Female,Pune,5.1,33,8,14749.27,1843.65875,1,Family Essential Buyers
+C0601,29,Female,Nagpur,4.6,99,5,6967.24,1393.4479999999999,2,At-Risk / Inactive
+C0602,36,Female,Pune,11.0,81,11,15019.07,1365.37,1,Family Essential Buyers
+C0603,26,Male,Bengaluru,10.0,20,1,1819.55,1819.55,2,At-Risk / Inactive
+C0604,36,Female,Mumbai,10.5,163,6,18994.61,3165.7683333333334,1,Family Essential Buyers
+C0605,18,Male,Pune,6.8,365,3,5281.84,1760.6133333333335,2,At-Risk / Inactive
+C0606,32,Female,Bengaluru,11.5,28,2,3259.93,1629.965,2,At-Risk / Inactive
+C0607,31,Male,Pune,10.8,91,1,2038.04,2038.04,2,At-Risk / Inactive
+C0608,51,Female,Bengaluru,17.3,23,18,121785.04,6765.835555555555,0,Premium Loyalists
+C0609,47,Male,Delhi,13.5,59,10,33302.49,3330.249,1,Family Essential Buyers
+C0610,32,Male,Mumbai,5.7,67,12,11606.74,967.2283333333334,3,Young Trend Shoppers
+C0611,43,Male,Bengaluru,11.7,18,8,20062.84,2507.855,1,Family Essential Buyers
+C0612,38,Female,Nagpur,8.4,3,4,10837.310000000001,2709.3275000000003,1,Family Essential Buyers
+C0613,42,Female,Delhi,9.4,36,2,3960.52,1980.26,2,At-Risk / Inactive
+C0614,18,Female,Bengaluru,8.0,26,1,1814.19,1814.19,2,At-Risk / Inactive
+C0615,41,Female,Pune,7.8,38,6,5475.04,912.5066666666667,1,Family Essential Buyers
+C0616,42,Male,Mumbai,9.7,28,3,4945.78,1648.5933333333332,1,Family Essential Buyers
+C0617,45,Female,Mumbai,14.8,13,13,25615.99,1970.4607692307693,1,Family Essential Buyers
+C0618,28,Female,Bengaluru,7.1,33,3,5279.57,1759.8566666666666,2,At-Risk / Inactive
+C0619,42,Male,Nagpur,20.4,15,12,71962.97,5996.9141666666665,0,Premium Loyalists
+C0620,33,Male,Nagpur,13.9,18,22,63404.95,2882.043181818182,0,Premium Loyalists
+C0621,34,Male,Mumbai,10.9,20,9,23592.22,2621.3577777777778,1,Family Essential Buyers
+C0622,37,Female,Delhi,13.7,19,6,15542.630000000001,2590.4383333333335,1,Family Essential Buyers
+C0623,33,Male,Nagpur,7.6,365,1,3837.38,3837.38,2,At-Risk / Inactive
+C0624,43,Male,Mumbai,9.6,8,13,22603.72,1738.7476923076924,1,Family Essential Buyers
+C0625,42,Female,Pune,10.2,181,1,1923.55,1923.55,2,At-Risk / Inactive
+C0626,23,Female,Bengaluru,5.1,12,21,23526.36,1120.3028571428572,3,Young Trend Shoppers
+C0627,29,Male,Mumbai,7.8,365,1,920.82,920.82,2,At-Risk / Inactive
+C0628,33,Male,Bengaluru,22.4,3,20,94760.68,4738.034,0,Premium Loyalists
+C0629,31,Male,Bengaluru,9.2,38,5,9827.8,1965.56,1,Family Essential Buyers
+C0630,24,Female,Bengaluru,7.7,270,1,1737.38,1737.38,2,At-Risk / Inactive
+C0631,40,Male,Pune,11.4,363,2,4356.38,2178.19,2,At-Risk / Inactive
+C0632,19,Female,Bengaluru,9.7,206,3,9750.01,3250.0033333333336,2,At-Risk / Inactive
+C0633,41,Female,Delhi,11.6,16,25,127035.98,5081.4392,0,Premium Loyalists
+C0634,31,Male,Bengaluru,8.7,10,11,21120.68,1920.0618181818181,3,Young Trend Shoppers
+C0635,36,Female,Mumbai,16.4,7,14,62140.08,4438.577142857143,0,Premium Loyalists
+C0636,54,Female,Mumbai,14.8,15,24,93712.73,3904.697083333333,0,Premium Loyalists
+C0637,37,Male,Mumbai,11.3,6,14,39750.16,2839.297142857143,1,Family Essential Buyers
+C0638,20,Male,Mumbai,13.8,104,4,8131.57,2032.8925,2,At-Risk / Inactive
+C0639,45,Male,Delhi,11.5,16,5,11516.08,2303.216,1,Family Essential Buyers
+C0640,20,Male,Bengaluru,8.9,25,3,5579.139999999999,1859.7133333333331,3,Young Trend Shoppers
+C0641,38,Male,Bengaluru,10.5,94,15,44927.91,2995.1940000000004,1,Family Essential Buyers
+C0642,27,Female,Bengaluru,11.2,12,1,1450.6,1450.6,2,At-Risk / Inactive
+C0643,45,Male,Delhi,21.1,17,22,107782.92,4899.223636363637,0,Premium Loyalists
+C0644,37,Male,Delhi,6.5,3,12,17696.63,1474.7191666666668,3,Young Trend Shoppers
+C0645,19,Female,Bengaluru,8.7,3,11,23034.84,2094.0763636363636,3,Young Trend Shoppers
+C0646,35,Female,Nagpur,6.8,67,1,1917.91,1917.91,2,At-Risk / Inactive
+C0647,36,Female,Mumbai,20.9,3,13,89230.73,6863.902307692308,0,Premium Loyalists
+C0648,35,Female,Bengaluru,5.0,45,12,14519.51,1209.9591666666668,3,Young Trend Shoppers
+C0649,43,Male,Nagpur,11.9,12,6,17470.19,2911.6983333333333,1,Family Essential Buyers
+C0650,33,Male,Nagpur,18.6,13,28,81584.92,2913.747142857143,0,Premium Loyalists
+C0651,24,Female,Nagpur,6.7,66,17,16601.53,976.5605882352941,3,Young Trend Shoppers
+C0652,32,Female,Mumbai,9.1,8,4,8455.32,2113.83,1,Family Essential Buyers
+C0653,35,Female,Mumbai,5.4,21,9,19512.09,2168.01,1,Family Essential Buyers
+C0654,35,Female,Bengaluru,6.4,16,19,21733.09,1143.8468421052632,3,Young Trend Shoppers
+C0655,39,Male,Bengaluru,12.0,311,3,3573.3599999999997,1191.12,2,At-Risk / Inactive
+C0656,22,Female,Mumbai,4.3,9,10,17645.95,1764.595,3,Young Trend Shoppers
+C0657,41,Male,Delhi,9.8,270,1,1077.93,1077.93,2,At-Risk / Inactive
+C0658,18,Male,Mumbai,7.1,4,9,8875.43,986.1588888888889,3,Young Trend Shoppers
+C0659,37,Male,Bengaluru,11.4,129,7,10972.61,1567.5157142857145,1,Family Essential Buyers
+C0660,18,Female,Delhi,7.0,19,25,37043.08,1481.7232000000001,3,Young Trend Shoppers
+C0661,18,Female,Mumbai,5.4,66,7,8433.26,1204.7514285714285,3,Young Trend Shoppers
+C0662,27,Male,Pune,8.4,26,2,1374.3200000000002,687.1600000000001,2,At-Risk / Inactive
+C0663,18,Female,Pune,5.9,57,13,30785.7,2368.130769230769,3,Young Trend Shoppers
+C0664,51,Female,Bengaluru,27.1,8,19,78130.33,4112.122631578947,0,Premium Loyalists
+C0665,38,Female,Pune,4.8,15,9,10930.939999999999,1214.5488888888888,3,Young Trend Shoppers
+C0666,41,Male,Pune,6.8,143,4,5434.18,1358.545,2,At-Risk / Inactive
+C0667,41,Female,Bengaluru,8.0,113,4,4744.610000000001,1186.1525000000001,2,At-Risk / Inactive
+C0668,43,Female,Mumbai,9.0,35,1,2282.76,2282.76,2,At-Risk / Inactive
+C0669,26,Female,Pune,4.6,7,13,19018.34,1462.9492307692308,3,Young Trend Shoppers
+C0670,24,Male,Mumbai,3.5,9,16,30324.2,1895.2625,3,Young Trend Shoppers
+C0671,32,Female,Pune,13.6,15,19,93587.1,4925.636842105264,0,Premium Loyalists
+C0672,42,Male,Mumbai,15.1,58,7,11735.46,1676.4942857142855,1,Family Essential Buyers
+C0673,18,Female,Pune,7.8,311,3,4437.42,1479.14,2,At-Risk / Inactive
+C0674,53,Female,Delhi,9.7,43,3,11010.13,3670.043333333333,1,Family Essential Buyers
+C0675,48,Female,Delhi,10.7,64,14,37374.12,2669.5800000000004,1,Family Essential Buyers
+C0676,30,Male,Nagpur,6.6,8,10,12618.87,1261.8870000000002,3,Young Trend Shoppers
+C0677,45,Male,Bengaluru,8.9,151,1,2072.73,2072.73,2,At-Risk / Inactive
+C0678,38,Male,Mumbai,9.5,45,5,13575.15,2715.0299999999997,1,Family Essential Buyers
+C0679,40,Female,Delhi,16.7,1,20,73726.45,3686.3224999999998,0,Premium Loyalists
+C0680,33,Male,Pune,5.9,35,11,18458.579999999998,1678.052727272727,3,Young Trend Shoppers
+C0681,38,Male,Nagpur,15.9,14,23,139814.5,6078.891304347826,0,Premium Loyalists
+C0682,20,Female,Pune,5.3,12,27,31610.13,1170.7455555555555,3,Young Trend Shoppers
+C0683,43,Male,Bengaluru,20.1,2,27,99364.04,3680.1496296296295,0,Premium Loyalists
+C0684,26,Female,Delhi,4.2,27,14,20507.45,1464.8178571428573,3,Young Trend Shoppers
+C0685,32,Male,Nagpur,12.0,26,14,38518.96,2751.3542857142857,1,Family Essential Buyers
+C0686,23,Female,Mumbai,8.2,34,8,6922.29,865.28625,3,Young Trend Shoppers
+C0687,18,Male,Mumbai,5.1,14,4,3514.08,878.52,3,Young Trend Shoppers
+C0688,30,Male,Bengaluru,12.3,107,2,3753.05,1876.525,2,At-Risk / Inactive
+C0689,27,Male,Pune,9.5,122,3,5498.45,1832.8166666666666,2,At-Risk / Inactive
+C0690,33,Female,Pune,9.8,182,7,21241.96,3034.565714285714,1,Family Essential Buyers
+C0691,31,Female,Nagpur,7.6,18,16,21849.27,1365.579375,3,Young Trend Shoppers
+C0692,34,Female,Mumbai,9.0,171,4,4811.650000000001,1202.9125000000001,2,At-Risk / Inactive
+C0693,37,Female,Mumbai,4.7,64,11,14658.02,1332.5472727272727,1,Family Essential Buyers
+C0694,31,Male,Delhi,7.0,11,10,17655.989999999998,1765.5989999999997,3,Young Trend Shoppers
+C0695,25,Female,Bengaluru,11.9,8,2,2543.28,1271.64,2,At-Risk / Inactive
+C0696,31,Female,Delhi,12.3,58,21,71316.48,3396.022857142857,1,Family Essential Buyers
+C0697,37,Male,Pune,16.6,98,4,7879.1,1969.775,1,Family Essential Buyers
+C0698,37,Female,Delhi,8.9,98,8,24523.92,3065.49,1,Family Essential Buyers
+C0699,37,Female,Bengaluru,10.4,22,4,5951.7699999999995,1487.9424999999999,1,Family Essential Buyers
+C0700,28,Male,Nagpur,6.1,116,12,14588.19,1215.6825000000001,3,Young Trend Shoppers
+C0701,23,Male,Mumbai,6.2,14,17,19382.03,1140.1194117647058,3,Young Trend Shoppers
+C0702,23,Male,Nagpur,7.3,148,4,4576.89,1144.2225,2,At-Risk / Inactive
+C0703,52,Male,Mumbai,20.2,6,30,152740.52,5091.350666666666,0,Premium Loyalists
+C0704,47,Male,Mumbai,6.5,365,5,11847.43,2369.486,1,Family Essential Buyers
+C0705,27,Male,Delhi,8.7,43,1,1693.24,1693.24,2,At-Risk / Inactive
+C0706,48,Male,Mumbai,9.3,35,10,25066.09,2506.609,1,Family Essential Buyers
+C0707,33,Female,Bengaluru,6.6,139,3,4778.41,1592.8033333333333,2,At-Risk / Inactive
+C0708,50,Female,Mumbai,10.6,348,1,2709.31,2709.31,2,At-Risk / Inactive
+C0709,19,Male,Bengaluru,5.9,6,8,12759.62,1594.9525,3,Young Trend Shoppers
+C0710,18,Female,Delhi,5.2,11,11,13515.35,1228.668181818182,3,Young Trend Shoppers
+C0711,37,Male,Pune,6.4,41,2,4566.32,2283.16,2,At-Risk / Inactive
+C0712,38,Male,Bengaluru,9.8,148,4,9946.55,2486.6375,1,Family Essential Buyers
+C0713,43,Female,Pune,8.1,12,1,973.93,973.93,2,At-Risk / Inactive
+C0714,28,Female,Delhi,8.5,185,1,963.93,963.93,2,At-Risk / Inactive
+C0715,37,Male,Mumbai,2.5,365,3,5223.99,1741.33,2,At-Risk / Inactive
+C0716,19,Female,Bengaluru,6.5,31,6,6916.95,1152.825,3,Young Trend Shoppers
+C0717,34,Female,Mumbai,7.3,43,13,45748.81,3519.1392307692304,1,Family Essential Buyers
+C0718,37,Female,Nagpur,13.2,11,23,128710.59999999999,5596.113043478261,0,Premium Loyalists
+C0719,32,Female,Mumbai,7.0,1,9,22524.07,2502.6744444444444,3,Young Trend Shoppers
+C0720,34,Female,Mumbai,11.9,365,3,4344.33,1448.11,2,At-Risk / Inactive
+C0721,26,Male,Pune,10.5,145,8,14855.130000000001,1856.8912500000001,1,Family Essential Buyers
+C0722,42,Female,Delhi,6.1,2,8,23540.989999999998,2942.6237499999997,1,Family Essential Buyers
+C0723,44,Male,Mumbai,16.6,6,17,70253.38,4132.551764705882,0,Premium Loyalists
+C0724,18,Male,Pune,6.8,103,4,14727.46,3681.865,3,Young Trend Shoppers
+C0725,65,Male,Nagpur,19.9,1,14,95138.07,6795.5764285714295,0,Premium Loyalists
+C0726,32,Male,Delhi,21.8,14,20,117303.51,5865.175499999999,0,Premium Loyalists
+C0727,28,Female,Mumbai,4.6,19,13,7384.62,568.0476923076923,3,Young Trend Shoppers
+C0728,46,Female,Bengaluru,20.8,5,26,113502.37,4365.475769230769,0,Premium Loyalists
+C0729,36,Female,Delhi,4.7,149,32,41337.58,1291.799375,3,Young Trend Shoppers
+C0730,44,Male,Delhi,9.3,63,9,13166.89,1462.9877777777776,1,Family Essential Buyers
+C0731,32,Female,Delhi,5.9,248,13,14843.55,1141.8115384615385,3,Young Trend Shoppers
+C0732,47,Male,Mumbai,16.0,2,30,110359.04,3678.6346666666664,0,Premium Loyalists
+C0733,43,Male,Bengaluru,11.6,5,21,92593.95,4409.2357142857145,0,Premium Loyalists
+C0734,18,Male,Mumbai,5.8,98,11,19046.21,1731.4736363636364,3,Young Trend Shoppers
+C0735,28,Male,Mumbai,11.1,6,25,135730.27,5429.2108,0,Premium Loyalists
+C0736,31,Female,Mumbai,13.2,42,9,20652.010000000002,2294.667777777778,1,Family Essential Buyers
+C0737,36,Female,Pune,4.7,58,8,11673.98,1459.2475,1,Family Essential Buyers
+C0738,25,Male,Pune,6.0,71,5,6192.66,1238.532,3,Young Trend Shoppers
+C0739,30,Male,Pune,2.8,2,9,12013.039999999999,1334.7822222222221,3,Young Trend Shoppers
+C0740,18,Female,Mumbai,5.9,38,17,16050.59,944.1523529411764,3,Young Trend Shoppers
+C0741,36,Female,Pune,16.8,2,34,128439.8,3777.641176470588,0,Premium Loyalists
+C0742,40,Female,Pune,19.4,10,20,86368.23,4318.4115,0,Premium Loyalists
+C0743,20,Female,Delhi,7.2,365,1,1135.14,1135.14,2,At-Risk / Inactive
+C0744,55,Female,Bengaluru,17.7,23,44,158883.76,3610.9945454545455,0,Premium Loyalists
+C0745,41,Male,Pune,7.3,67,5,17498.3,3499.66,1,Family Essential Buyers
+C0746,29,Male,Pune,8.9,18,7,18468.9,2638.414285714286,1,Family Essential Buyers
+C0747,22,Male,Mumbai,5.5,8,7,15928.79,2275.5414285714287,3,Young Trend Shoppers
+C0748,28,Male,Mumbai,6.0,16,8,9760.99,1220.12375,3,Young Trend Shoppers
+C0749,38,Female,Mumbai,12.9,113,2,7196.75,3598.375,2,At-Risk / Inactive
+C0750,19,Male,Mumbai,11.5,109,4,5097.01,1274.2525,2,At-Risk / Inactive
+C0751,23,Male,Bengaluru,6.3,27,20,48740.01,2437.0005,3,Young Trend Shoppers
+C0752,18,Male,Mumbai,6.5,30,8,9779.56,1222.445,3,Young Trend Shoppers
+C0753,34,Male,Mumbai,5.8,7,11,16026.8,1456.9818181818182,3,Young Trend Shoppers
+C0754,29,Female,Mumbai,4.4,34,4,7326.780000000001,1831.6950000000002,3,Young Trend Shoppers
+C0755,24,Male,Delhi,14.2,21,12,25796.96,2149.7466666666664,3,Young Trend Shoppers
+C0756,18,Female,Delhi,5.3,74,21,19878.239999999998,946.582857142857,3,Young Trend Shoppers
+C0757,38,Female,Mumbai,5.9,121,8,9172.59,1146.57375,1,Family Essential Buyers
+C0758,35,Male,Delhi,10.7,152,1,3319.47,3319.47,2,At-Risk / Inactive
+C0759,32,Male,Mumbai,10.2,47,29,136496.05,4706.760344827586,0,Premium Loyalists
+C0760,22,Male,Delhi,8.2,14,20,21339.06,1066.953,3,Young Trend Shoppers
+C0761,53,Male,Bengaluru,9.9,155,3,7481.74,2493.9133333333334,1,Family Essential Buyers
+C0762,22,Female,Pune,17.8,2,19,66993.6,3525.9789473684214,0,Premium Loyalists
+C0763,45,Male,Delhi,19.1,47,37,148183.67,4004.9640540540545,0,Premium Loyalists
+C0764,37,Male,Delhi,14.6,1,26,134200.31,5161.550384615384,0,Premium Loyalists
+C0765,29,Female,Pune,8.2,340,1,1718.65,1718.65,2,At-Risk / Inactive
+C0766,42,Male,Pune,21.8,31,33,206850.56,6268.198787878788,0,Premium Loyalists
+C0767,18,Male,Mumbai,5.8,130,11,14568.66,1324.4236363636364,3,Young Trend Shoppers
+C0768,26,Male,Bengaluru,25.0,18,32,135643.77,4238.8678125,0,Premium Loyalists
+C0769,45,Female,Bengaluru,22.7,4,8,38147.21,4768.40125,0,Premium Loyalists
+C0770,48,Female,Bengaluru,11.1,50,9,21630.57,2403.3966666666665,1,Family Essential Buyers
+C0771,31,Male,Bengaluru,6.1,11,9,20946.71,2327.412222222222,3,Young Trend Shoppers
+C0772,31,Female,Nagpur,6.8,6,8,15853.47,1981.68375,3,Young Trend Shoppers
+C0773,30,Female,Pune,12.5,48,10,17589.85,1758.985,1,Family Essential Buyers
+C0774,33,Female,Delhi,7.3,88,3,9955.3,3318.433333333333,1,Family Essential Buyers
+C0775,35,Female,Pune,17.0,14,12,91483.61,7623.634166666667,0,Premium Loyalists
+C0776,28,Female,Pune,7.3,115,5,9724.59,1944.9180000000001,2,At-Risk / Inactive
+C0777,39,Female,Mumbai,11.7,34,5,6331.8,1266.3600000000001,1,Family Essential Buyers
+C0778,37,Female,Pune,25.7,26,18,57214.2,3178.5666666666666,0,Premium Loyalists
+C0779,33,Male,Delhi,4.9,14,7,8736.35,1248.05,3,Young Trend Shoppers
+C0780,22,Female,Mumbai,9.1,59,2,3185.16,1592.58,2,At-Risk / Inactive
+C0781,30,Male,Pune,6.7,13,22,21717.31,987.1504545454546,3,Young Trend Shoppers
+C0782,35,Male,Delhi,8.0,43,1,1515.33,1515.33,2,At-Risk / Inactive
+C0783,25,Female,Bengaluru,4.4,109,13,21872.79,1682.5223076923078,3,Young Trend Shoppers
+C0784,43,Male,Delhi,6.1,78,12,16817.66,1401.4716666666666,1,Family Essential Buyers
+C0785,43,Male,Mumbai,9.0,212,4,13532.58,3383.145,1,Family Essential Buyers
+C0786,29,Male,Pune,6.0,41,7,9786.57,1398.0814285714284,3,Young Trend Shoppers
+C0787,25,Male,Mumbai,5.2,365,2,3826.65,1913.325,2,At-Risk / Inactive
+C0788,18,Male,Mumbai,6.3,140,10,23156.33,2315.6330000000003,3,Young Trend Shoppers
+C0789,30,Female,Mumbai,7.6,123,3,4718.17,1572.7233333333334,2,At-Risk / Inactive
+C0790,41,Male,Delhi,7.6,1,6,16248.99,2708.165,1,Family Essential Buyers
+C0791,37,Male,Mumbai,9.9,23,11,16119.26,1465.3872727272728,1,Family Essential Buyers
+C0792,18,Male,Mumbai,6.6,64,5,5077.389999999999,1015.4779999999998,3,Young Trend Shoppers
+C0793,23,Male,Mumbai,4.4,9,12,14329.86,1194.155,3,Young Trend Shoppers
+C0794,43,Male,Mumbai,17.1,40,10,50643.42,5064.342,0,Premium Loyalists
+C0795,31,Male,Mumbai,16.5,6,28,132019.22,4714.972142857143,0,Premium Loyalists
+C0796,23,Female,Mumbai,5.9,67,12,15265.69,1272.1408333333334,3,Young Trend Shoppers
+C0797,39,Male,Pune,18.4,26,15,61971.47,4131.431333333333,0,Premium Loyalists
+C0798,38,Female,Mumbai,18.5,3,19,90775.68000000001,4777.667368421053,0,Premium Loyalists
+C0799,37,Female,Nagpur,12.8,155,8,15056.47,1882.05875,1,Family Essential Buyers
+C0800,33,Male,Delhi,15.7,125,10,23495.87,2349.587,1,Family Essential Buyers
+C0801,43,Male,Delhi,8.4,58,3,5420.540000000001,1806.846666666667,2,At-Risk / Inactive
+C0802,26,Male,Bengaluru,4.7,1,10,10115.77,1011.577,3,Young Trend Shoppers
+C0803,24,Male,Mumbai,10.8,68,1,1841.79,1841.79,2,At-Risk / Inactive
+C0804,20,Male,Bengaluru,10.1,3,6,14873.02,2478.8366666666666,3,Young Trend Shoppers
+C0805,58,Female,Bengaluru,20.3,8,12,50295.29,4191.274166666667,0,Premium Loyalists
+C0806,46,Male,Bengaluru,15.4,18,25,102083.08,4083.3232000000003,0,Premium Loyalists
+C0807,36,Male,Delhi,8.6,89,11,27265.9,2478.718181818182,1,Family Essential Buyers
+C0808,47,Male,Bengaluru,23.8,8,22,94478.37,4294.471363636363,0,Premium Loyalists
+C0809,45,Male,Bengaluru,12.0,37,8,22411.84,2801.48,1,Family Essential Buyers
+C0810,29,Female,Bengaluru,9.9,35,1,1765.68,1765.68,2,At-Risk / Inactive
+C0811,51,Male,Bengaluru,17.4,37,30,117182.33,3906.0776666666666,0,Premium Loyalists
+C0812,44,Female,Delhi,24.8,6,18,74422.26000000001,4134.570000000001,0,Premium Loyalists
+C0813,35,Male,Pune,11.2,62,2,3749.19,1874.595,2,At-Risk / Inactive
+C0814,29,Male,Pune,11.0,116,10,31396.7,3139.67,1,Family Essential Buyers
+C0815,48,Male,Nagpur,20.6,9,20,95474.18,4773.709,0,Premium Loyalists
+C0816,30,Male,Pune,11.2,158,1,555.12,555.12,2,At-Risk / Inactive
+C0817,23,Female,Pune,5.8,63,5,8422.27,1684.4540000000002,3,Young Trend Shoppers
+C0818,42,Male,Pune,13.4,16,10,25137.41,2513.741,1,Family Essential Buyers
+C0819,45,Male,Mumbai,12.9,45,20,42305.92,2115.296,1,Family Essential Buyers
+C0820,25,Female,Mumbai,4.9,86,13,13051.85,1003.9884615384616,3,Young Trend Shoppers
+C0821,35,Female,Pune,20.1,23,20,93994.86,4699.743,0,Premium Loyalists
+C0822,39,Male,Nagpur,11.1,47,10,26334.63,2633.463,1,Family Essential Buyers
+C0823,18,Male,Pune,5.9,10,13,22129.579999999998,1702.2753846153844,3,Young Trend Shoppers
+C0824,48,Male,Mumbai,9.3,34,5,12457.56,2491.5119999999997,1,Family Essential Buyers
+C0825,32,Male,Delhi,9.8,18,1,3257.89,3257.89,2,At-Risk / Inactive
+C0826,35,Female,Bengaluru,24.9,7,33,131059.12,3971.488484848485,0,Premium Loyalists
+C0827,35,Female,Delhi,11.4,104,11,24802.28,2254.752727272727,1,Family Essential Buyers
+C0828,23,Female,Mumbai,5.6,17,12,10892.1,907.6750000000001,3,Young Trend Shoppers
+C0829,35,Female,Bengaluru,7.0,1,1,1155.83,1155.83,2,At-Risk / Inactive
+C0830,23,Male,Mumbai,7.4,2,10,15349.29,1534.929,3,Young Trend Shoppers
+C0831,35,Male,Delhi,12.2,7,7,14067.26,2009.6085714285714,1,Family Essential Buyers
+C0832,28,Male,Mumbai,9.4,14,5,11717.46,2343.4919999999997,1,Family Essential Buyers
+C0833,20,Male,Delhi,3.7,23,23,31343.21,1362.7482608695652,3,Young Trend Shoppers
+C0834,42,Male,Pune,12.7,43,4,8888.16,2222.04,1,Family Essential Buyers
+C0835,36,Female,Mumbai,12.8,14,12,36427.34,3035.611666666666,1,Family Essential Buyers
+C0836,28,Male,Delhi,8.4,206,9,12664.23,1407.1366666666665,3,Young Trend Shoppers
+C0837,40,Female,Bengaluru,6.0,77,8,15441.69,1930.21125,1,Family Essential Buyers
+C0838,30,Male,Nagpur,8.7,341,2,2444.17,1222.085,2,At-Risk / Inactive
+C0839,33,Male,Nagpur,9.3,69,15,21716.8,1447.7866666666666,1,Family Essential Buyers
+C0840,44,Male,Mumbai,11.9,81,9,24228.48,2692.0533333333333,1,Family Essential Buyers
+C0841,47,Female,Pune,20.9,49,16,83553.83,5222.114375,0,Premium Loyalists
+C0842,37,Female,Mumbai,7.1,87,3,7563.3099999999995,2521.103333333333,2,At-Risk / Inactive
+C0843,37,Male,Delhi,10.0,119,2,3556.37,1778.185,2,At-Risk / Inactive
+C0844,33,Male,Nagpur,7.3,27,6,7627.280000000001,1271.2133333333334,3,Young Trend Shoppers
+C0845,39,Female,Delhi,14.2,4,9,54155.64,6017.293333333333,0,Premium Loyalists
+C0846,32,Female,Bengaluru,9.1,37,1,1161.95,1161.95,2,At-Risk / Inactive
+C0847,18,Female,Bengaluru,5.7,65,5,6509.02,1301.804,3,Young Trend Shoppers
+C0848,31,Male,Delhi,14.0,269,8,12068.69,1508.58625,1,Family Essential Buyers
+C0849,41,Male,Bengaluru,11.6,3,16,105032.65,6564.540625,0,Premium Loyalists
+C0850,23,Female,Delhi,6.1,135,1,1383.71,1383.71,2,At-Risk / Inactive
+C0851,44,Female,Mumbai,20.7,5,39,232297.61,5956.348974358974,0,Premium Loyalists
+C0852,35,Female,Bengaluru,6.6,94,17,26145.67,1537.980588235294,1,Family Essential Buyers
+C0853,22,Male,Bengaluru,9.0,18,1,3681.84,3681.84,2,At-Risk / Inactive
+C0854,30,Male,Mumbai,6.4,15,1,1424.4,1424.4,2,At-Risk / Inactive
+C0855,23,Female,Pune,3.5,21,21,24164.54,1150.692380952381,3,Young Trend Shoppers
+C0856,32,Male,Nagpur,5.1,52,8,7692.51,961.56375,3,Young Trend Shoppers
+C0857,41,Female,Mumbai,9.3,69,14,47905.5,3421.8214285714284,1,Family Essential Buyers
+C0858,43,Male,Mumbai,9.2,20,1,1914.62,1914.62,2,At-Risk / Inactive
+C0859,30,Male,Pune,5.7,4,13,16243.55,1249.503846153846,3,Young Trend Shoppers
+C0860,35,Male,Delhi,11.7,21,6,12401.22,2066.87,1,Family Essential Buyers
+C0861,46,Female,Pune,7.0,15,5,9001.119999999999,1800.2239999999997,1,Family Essential Buyers
+C0862,41,Male,Mumbai,12.4,15,7,13512.7,1930.3857142857144,1,Family Essential Buyers
+C0863,32,Female,Delhi,6.4,141,1,799.7,799.7,2,At-Risk / Inactive
+C0864,20,Male,Pune,5.8,40,5,10425.7,2085.1400000000003,3,Young Trend Shoppers
+C0865,46,Male,Delhi,25.6,12,32,177783.62,5555.738125,0,Premium Loyalists
+C0866,29,Female,Delhi,9.4,93,1,1006.93,1006.93,2,At-Risk / Inactive
+C0867,42,Male,Mumbai,6.6,274,2,2877.76,1438.88,2,At-Risk / Inactive
+C0868,29,Female,Mumbai,6.9,209,1,1269.78,1269.78,2,At-Risk / Inactive
+C0869,38,Male,Nagpur,17.5,4,13,37718.89,2901.453076923077,0,Premium Loyalists
+C0870,37,Male,Bengaluru,6.4,37,15,17886.85,1192.4566666666665,3,Young Trend Shoppers
+C0871,29,Female,Bengaluru,12.1,33,6,18149.84,3024.9733333333334,1,Family Essential Buyers
+C0872,47,Female,Mumbai,15.3,12,15,61094.01,4072.934,0,Premium Loyalists
+C0873,30,Male,Nagpur,13.3,178,3,3952.0099999999998,1317.3366666666666,2,At-Risk / Inactive
+C0874,19,Male,Pune,5.2,64,10,13613.82,1361.382,3,Young Trend Shoppers
+C0875,27,Male,Bengaluru,7.3,9,10,12006.05,1200.605,3,Young Trend Shoppers
+C0876,30,Female,Bengaluru,8.3,315,1,690.68,690.68,2,At-Risk / Inactive
+C0877,18,Male,Bengaluru,4.6,5,20,32647.47,1632.3735000000001,3,Young Trend Shoppers
+C0878,31,Female,Delhi,9.3,4,11,12259.45,1114.4954545454545,3,Young Trend Shoppers
+C0879,38,Female,Nagpur,11.9,8,14,17107.98,1221.9985714285715,1,Family Essential Buyers
+C0880,45,Female,Bengaluru,10.5,149,8,15513.31,1939.16375,1,Family Essential Buyers
+C0881,28,Female,Mumbai,7.7,52,16,20733.71,1295.856875,3,Young Trend Shoppers
+C0882,40,Male,Mumbai,8.6,51,6,11325.009999999998,1887.5016666666663,1,Family Essential Buyers
+C0883,49,Male,Bengaluru,11.0,191,1,1935.42,1935.42,2,At-Risk / Inactive
+C0884,43,Female,Bengaluru,7.2,17,16,30177.6,1886.1,1,Family Essential Buyers
+C0885,28,Male,Nagpur,4.3,35,6,9591.28,1598.5466666666669,3,Young Trend Shoppers
+C0886,18,Female,Delhi,7.3,4,9,9742.02,1082.4466666666667,3,Young Trend Shoppers
+C0887,27,Female,Pune,4.1,3,12,24263.57,2021.9641666666666,3,Young Trend Shoppers
+C0888,50,Female,Delhi,21.3,8,12,41567.06,3463.9216666666666,0,Premium Loyalists
+C0889,51,Male,Pune,13.6,1,25,130781.36,5231.2544,0,Premium Loyalists
+C0890,35,Female,Delhi,12.0,26,10,15126.49,1512.649,1,Family Essential Buyers
+C0891,41,Female,Nagpur,5.0,37,17,20296.2,1193.894117647059,1,Family Essential Buyers
+C0892,28,Male,Pune,8.8,365,1,2797.55,2797.55,2,At-Risk / Inactive
+C0893,31,Male,Bengaluru,7.8,7,17,35215.85,2071.520588235294,3,Young Trend Shoppers
+C0894,45,Female,Mumbai,10.8,26,49,121848.69,2486.7079591836737,0,Premium Loyalists
+C0895,36,Male,Pune,7.9,59,9,17952.53,1994.7255555555555,1,Family Essential Buyers
+C0896,19,Female,Delhi,8.0,66,1,538.87,538.87,2,At-Risk / Inactive
+C0897,23,Female,Bengaluru,4.4,23,8,7585.82,948.2275,3,Young Trend Shoppers
+C0898,34,Female,Pune,6.3,2,11,16378.31,1488.9372727272728,3,Young Trend Shoppers
+C0899,20,Female,Nagpur,6.6,5,9,7709.889999999999,856.6544444444444,3,Young Trend Shoppers
+C0900,43,Male,Delhi,8.8,58,11,20629.67,1875.4245454545453,1,Family Essential Buyers
+C0901,32,Female,Bengaluru,6.6,112,15,17479.18,1165.2786666666666,3,Young Trend Shoppers
+C0902,23,Male,Bengaluru,3.8,14,21,26658.96,1269.4742857142858,3,Young Trend Shoppers
+C0903,55,Male,Nagpur,21.1,20,18,110660.3,6147.794444444445,0,Premium Loyalists
+C0904,31,Female,Mumbai,9.9,6,4,9674.35,2418.5875,1,Family Essential Buyers
+C0905,50,Male,Mumbai,15.4,52,3,7071.42,2357.14,1,Family Essential Buyers
+C0906,26,Female,Delhi,12.9,34,11,24174.800000000003,2197.709090909091,1,Family Essential Buyers
+C0907,46,Male,Mumbai,10.0,54,10,16443.83,1644.3830000000003,1,Family Essential Buyers
+C0908,59,Male,Mumbai,15.0,2,23,80706.16,3508.9634782608696,0,Premium Loyalists
+C0909,28,Male,Pune,5.4,127,8,6312.43,789.05375,3,Young Trend Shoppers
+C0910,38,Male,Mumbai,8.9,43,10,11895.29,1189.529,1,Family Essential Buyers
+C0911,48,Female,Delhi,11.6,269,11,54327.82,4938.892727272727,1,Family Essential Buyers
+C0912,33,Male,Bengaluru,6.7,71,1,2966.34,2966.34,2,At-Risk / Inactive
+C0913,40,Male,Bengaluru,8.0,74,5,7033.44,1406.6879999999999,1,Family Essential Buyers
+C0914,39,Female,Nagpur,7.6,24,2,3485.1800000000003,1742.5900000000001,2,At-Risk / Inactive
+C0915,24,Male,Mumbai,9.0,270,2,6154.41,3077.205,2,At-Risk / Inactive
+C0916,40,Female,Pune,8.6,248,2,7225.4,3612.7,2,At-Risk / Inactive
+C0917,48,Female,Pune,17.4,12,16,98434.2,6152.1375,0,Premium Loyalists
+C0918,45,Male,Bengaluru,17.2,7,40,236063.24,5901.581,0,Premium Loyalists
+C0919,31,Male,Bengaluru,7.1,9,7,7484.79,1069.2557142857142,3,Young Trend Shoppers
+C0920,23,Female,Pune,13.6,17,10,29413.07,2941.307,1,Family Essential Buyers
+C0921,28,Male,Mumbai,19.5,2,32,62093.42,1940.419375,0,Premium Loyalists
+C0922,38,Male,Bengaluru,9.0,6,5,14706.29,2941.2580000000003,1,Family Essential Buyers
+C0923,38,Female,Mumbai,12.1,28,2,4778.450000000001,2389.2250000000004,2,At-Risk / Inactive
+C0924,26,Male,Delhi,10.7,141,10,40159.22,4015.922,1,Family Essential Buyers
+C0925,39,Female,Bengaluru,14.5,2,35,190446.33000000002,5441.323714285715,0,Premium Loyalists
+C0926,39,Female,Nagpur,10.8,1,6,6431.92,1071.9866666666667,1,Family Essential Buyers
+C0927,40,Male,Pune,16.5,32,23,77345.04,3362.827826086956,0,Premium Loyalists
+C0928,40,Male,Mumbai,7.6,158,3,3215.12,1071.7066666666667,2,At-Risk / Inactive
+C0929,42,Male,Pune,12.4,192,8,14783.9,1847.9875,1,Family Essential Buyers
+C0930,35,Female,Bengaluru,10.1,7,11,32329.55,2939.0499999999997,1,Family Essential Buyers
+C0931,19,Female,Nagpur,4.5,5,9,17414.15,1934.9055555555558,3,Young Trend Shoppers
+C0932,39,Male,Pune,8.3,4,2,3123.45,1561.725,2,At-Risk / Inactive
+C0933,22,Male,Delhi,5.3,9,9,18438.59,2048.7322222222224,3,Young Trend Shoppers
+C0934,32,Female,Bengaluru,11.4,50,8,25463.73,3182.96625,1,Family Essential Buyers
+C0935,24,Male,Pune,8.0,158,5,11394.8,2278.96,2,At-Risk / Inactive
+C0936,36,Female,Pune,8.2,33,12,7652.28,637.6899999999999,3,Young Trend Shoppers
+C0937,48,Female,Mumbai,14.1,365,1,1006.88,1006.88,2,At-Risk / Inactive
+C0938,39,Female,Pune,10.5,10,22,125210.87,5691.403181818182,0,Premium Loyalists
+C0939,31,Female,Mumbai,11.0,365,2,3654.94,1827.47,2,At-Risk / Inactive
+C0940,35,Female,Pune,16.6,3,21,65914.94,3138.806666666667,0,Premium Loyalists
+C0941,21,Female,Mumbai,6.3,50,13,15073.5,1159.5,3,Young Trend Shoppers
+C0942,30,Male,Nagpur,11.0,63,2,3428.1000000000004,1714.0500000000002,2,At-Risk / Inactive
+C0943,42,Female,Delhi,22.6,39,25,107649.28,4305.9712,0,Premium Loyalists
+C0944,25,Female,Delhi,7.6,59,9,14052.539999999999,1561.3933333333332,3,Young Trend Shoppers
+C0945,36,Male,Bengaluru,6.4,65,15,29044.95,1936.3300000000002,1,Family Essential Buyers
+C0946,31,Female,Pune,7.8,63,17,29355.03,1726.7664705882353,3,Young Trend Shoppers
+C0947,42,Male,Bengaluru,11.1,34,8,18553.22,2319.1525,1,Family Essential Buyers
+C0948,22,Male,Delhi,9.6,6,6,14252.6,2375.4333333333334,3,Young Trend Shoppers
+C0949,27,Female,Pune,9.3,214,1,1067.39,1067.39,2,At-Risk / Inactive
+C0950,23,Male,Bengaluru,4.9,94,9,10921.76,1213.528888888889,3,Young Trend Shoppers
+C0951,34,Female,Mumbai,5.4,14,5,9227.96,1845.5919999999999,1,Family Essential Buyers
+C0952,28,Male,Pune,7.2,9,15,19456.0,1297.0666666666666,3,Young Trend Shoppers
+C0953,18,Male,Pune,5.0,25,19,33871.34,1782.7021052631578,3,Young Trend Shoppers
+C0954,41,Male,Delhi,10.0,5,11,41438.85,3767.168181818182,1,Family Essential Buyers
+C0955,18,Male,Bengaluru,7.2,40,3,5791.05,1930.3500000000001,3,Young Trend Shoppers
+C0956,19,Female,Nagpur,11.7,32,4,6723.650000000001,1680.9125000000001,3,Young Trend Shoppers
+C0957,40,Female,Mumbai,10.0,64,5,7125.53,1425.106,1,Family Essential Buyers
+C0958,44,Female,Mumbai,9.8,112,12,22335.0,1861.25,1,Family Essential Buyers
+C0959,42,Female,Delhi,13.8,44,6,13566.43,2261.0716666666667,1,Family Essential Buyers
+C0960,34,Female,Pune,14.0,18,8,10179.48,1272.435,1,Family Essential Buyers
+C0961,32,Male,Nagpur,8.7,124,4,10498.150000000001,2624.5375000000004,1,Family Essential Buyers
+C0962,18,Male,Nagpur,5.0,49,15,20786.5,1385.7666666666667,3,Young Trend Shoppers
+C0963,50,Female,Pune,12.7,10,41,171969.39,4194.375365853659,0,Premium Loyalists
+C0964,59,Female,Mumbai,19.6,15,26,140422.02,5400.846923076922,0,Premium Loyalists
+C0965,28,Male,Mumbai,6.9,299,1,702.14,702.14,2,At-Risk / Inactive
+C0966,26,Female,Pune,9.8,181,9,37742.3,4193.588888888889,1,Family Essential Buyers
+C0967,31,Male,Pune,13.3,1,1,2348.4,2348.4,2,At-Risk / Inactive
+C0968,42,Male,Mumbai,14.7,2,29,103129.76,3556.198620689655,0,Premium Loyalists
+C0969,37,Male,Delhi,10.2,12,7,12957.36,1851.0514285714287,1,Family Essential Buyers
+C0970,23,Male,Delhi,2.7,41,9,11086.78,1231.8644444444444,3,Young Trend Shoppers
+C0971,31,Male,Delhi,7.0,11,9,8390.76,932.3066666666667,3,Young Trend Shoppers
+C0972,33,Female,Pune,24.6,25,16,68159.22,4259.95125,0,Premium Loyalists
+C0973,46,Male,Nagpur,22.6,2,31,112137.61,3617.342258064516,0,Premium Loyalists
+C0974,18,Female,Mumbai,8.7,193,5,10672.369999999999,2134.4739999999997,3,Young Trend Shoppers
+C0975,26,Male,Mumbai,7.8,35,8,10884.04,1360.505,3,Young Trend Shoppers
+C0976,21,Female,Bengaluru,14.1,28,7,17691.89,2527.412857142857,3,Young Trend Shoppers
+C0977,21,Female,Bengaluru,7.7,61,14,20655.88,1475.42,3,Young Trend Shoppers
+C0978,36,Male,Bengaluru,4.2,16,8,15921.6,1990.2,1,Family Essential Buyers
+C0979,40,Male,Delhi,5.8,49,9,39049.75,4338.861111111111,1,Family Essential Buyers
+C0980,29,Female,Delhi,4.7,23,23,29030.75,1262.2065217391305,3,Young Trend Shoppers
+C0981,37,Female,Mumbai,9.0,365,3,3856.6899999999996,1285.5633333333333,2,At-Risk / Inactive
+C0982,28,Female,Mumbai,6.3,15,5,7999.5,1599.9,3,Young Trend Shoppers
+C0983,30,Male,Pune,11.3,20,8,14868.98,1858.6225,1,Family Essential Buyers
+C0984,22,Male,Mumbai,4.5,75,19,30230.88,1591.098947368421,3,Young Trend Shoppers
+C0985,44,Male,Pune,22.4,17,15,50836.84,3389.1226666666666,0,Premium Loyalists
+C0986,33,Male,Pune,8.0,174,1,2108.41,2108.41,2,At-Risk / Inactive
+C0987,18,Female,Bengaluru,4.7,4,12,13763.24,1146.9366666666667,3,Young Trend Shoppers
+C0988,52,Male,Delhi,17.6,1,30,146494.06,4883.135333333334,0,Premium Loyalists
+C0989,18,Female,Nagpur,3.3,22,15,33335.8,2222.3866666666668,3,Young Trend Shoppers
+C0990,53,Female,Mumbai,10.1,253,2,1910.94,955.47,2,At-Risk / Inactive
+C0991,38,Female,Mumbai,11.2,19,10,19920.14,1992.014,1,Family Essential Buyers
+C0992,37,Male,Delhi,8.4,125,16,37333.64,2333.3525,1,Family Essential Buyers
+C0993,31,Female,Bengaluru,11.9,101,1,2878.1,2878.1,2,At-Risk / Inactive
+C0994,25,Male,Delhi,5.3,87,5,6254.62,1250.924,3,Young Trend Shoppers
+C0995,23,Male,Delhi,11.7,365,2,3155.8900000000003,1577.9450000000002,2,At-Risk / Inactive
+C0996,25,Female,Bengaluru,5.5,239,18,18745.6,1041.4222222222222,3,Young Trend Shoppers
+C0997,31,Female,Delhi,11.0,7,2,6197.68,3098.84,1,Family Essential Buyers
+C0998,24,Female,Mumbai,21.8,6,18,64554.95,3586.386111111111,0,Premium Loyalists
+C0999,32,Female,Bengaluru,3.8,123,1,1024.45,1024.45,2,At-Risk / Inactive
+C1000,31,Male,Bengaluru,5.5,13,13,15435.89,1187.3761538461538,3,Young Trend Shoppers
+C1001,46,Male,Nagpur,20.0,12,33,164525.19,4985.611818181818,0,Premium Loyalists
+C1002,18,Male,Bengaluru,6.6,1,14,24083.06,1720.2185714285715,3,Young Trend Shoppers
+C1003,40,Female,Mumbai,24.0,1,24,50631.11,2109.6295833333334,0,Premium Loyalists
+C1004,35,Female,Pune,15.9,4,33,212094.81,6427.115454545455,0,Premium Loyalists
+C1005,49,Male,Nagpur,7.3,95,8,26720.53,3340.06625,1,Family Essential Buyers
+C1006,18,Female,Mumbai,7.8,9,6,5721.6,953.6,3,Young Trend Shoppers
+C1007,38,Male,Bengaluru,12.2,201,1,1967.41,1967.41,2,At-Risk / Inactive
+C1008,31,Female,Pune,5.7,13,6,11233.48,1872.2466666666667,3,Young Trend Shoppers
+C1009,41,Male,Bengaluru,11.5,23,15,25932.9,1728.8600000000001,1,Family Essential Buyers
+C1010,22,Male,Mumbai,6.9,25,13,21593.670000000002,1661.0515384615387,3,Young Trend Shoppers
+C1011,44,Male,Pune,9.1,58,11,28045.16,2549.56,1,Family Essential Buyers
+C1012,52,Female,Bengaluru,9.7,42,7,13632.1,1947.4428571428573,1,Family Essential Buyers
+C1013,33,Female,Pune,3.7,11,15,18035.95,1202.3966666666668,3,Young Trend Shoppers
+C1014,36,Male,Mumbai,5.9,30,1,1159.87,1159.87,2,At-Risk / Inactive
+C1015,22,Male,Mumbai,4.3,104,15,35913.58,2394.2386666666666,3,Young Trend Shoppers
+C1016,46,Female,Delhi,14.7,5,17,78532.88,4619.581176470589,0,Premium Loyalists
+C1017,30,Male,Pune,8.5,6,16,28275.75,1767.234375,3,Young Trend Shoppers
+C1018,37,Male,Nagpur,11.1,197,3,6374.6,2124.866666666667,2,At-Risk / Inactive
+C1019,49,Male,Bengaluru,12.9,15,55,290279.36,5277.806545454545,0,Premium Loyalists
+C1020,28,Male,Mumbai,6.0,41,15,17429.42,1161.9613333333332,3,Young Trend Shoppers
+C1021,36,Male,Pune,9.5,298,1,1834.93,1834.93,2,At-Risk / Inactive
+C1022,39,Female,Mumbai,5.8,125,14,15967.130000000001,1140.5092857142859,1,Family Essential Buyers
+C1023,28,Male,Pune,2.1,41,2,4457.33,2228.665,2,At-Risk / Inactive
+C1024,48,Male,Delhi,8.4,24,4,10798.56,2699.64,1,Family Essential Buyers
+C1025,34,Male,Bengaluru,6.1,187,7,10435.3,1490.7571428571428,1,Family Essential Buyers
+C1026,23,Female,Pune,7.4,34,10,10096.1,1009.61,3,Young Trend Shoppers
+C1027,33,Male,Bengaluru,8.4,153,2,3433.8999999999996,1716.9499999999998,2,At-Risk / Inactive
+C1028,18,Female,Delhi,6.3,40,16,39129.38,2445.58625,3,Young Trend Shoppers
+C1029,33,Female,Bengaluru,8.4,27,9,19598.440000000002,2177.6044444444447,1,Family Essential Buyers
+C1030,33,Female,Mumbai,4.8,20,12,16178.43,1348.2025,3,Young Trend Shoppers
+C1031,30,Male,Bengaluru,14.0,103,9,18277.66,2030.851111111111,1,Family Essential Buyers
+C1032,44,Female,Nagpur,13.5,75,10,21812.32,2181.232,1,Family Essential Buyers
+C1033,34,Male,Pune,5.8,142,8,15144.16,1893.02,1,Family Essential Buyers
+C1034,38,Female,Delhi,6.4,149,4,7006.2,1751.55,2,At-Risk / Inactive
+C1035,18,Female,Pune,7.3,73,16,21704.49,1356.530625,3,Young Trend Shoppers
+C1036,41,Female,Delhi,10.8,179,12,26719.66,2226.6383333333333,1,Family Essential Buyers
+C1037,32,Male,Nagpur,4.3,61,12,17418.41,1451.5341666666666,3,Young Trend Shoppers
+C1038,23,Male,Delhi,7.1,7,9,7922.03,880.2255555555555,3,Young Trend Shoppers
+C1039,19,Male,Delhi,4.4,56,4,6999.13,1749.7825,3,Young Trend Shoppers
+C1040,29,Male,Pune,17.9,31,24,101213.19,4217.21625,0,Premium Loyalists
+C1041,34,Female,Delhi,10.1,21,39,129426.45,3318.626923076923,0,Premium Loyalists
+C1042,27,Female,Nagpur,9.0,17,7,17526.46,2503.7799999999997,3,Young Trend Shoppers
+C1043,46,Male,Bengaluru,7.1,45,7,14114.69,2016.3842857142859,1,Family Essential Buyers
+C1044,31,Female,Delhi,14.1,26,7,13411.050000000001,1915.8642857142859,1,Family Essential Buyers
+C1045,48,Female,Bengaluru,18.3,28,19,49610.92,2611.101052631579,0,Premium Loyalists
+C1046,31,Female,Delhi,6.6,4,18,14370.34,798.3522222222223,3,Young Trend Shoppers
+C1047,25,Male,Pune,8.2,157,5,6254.400000000001,1250.88,2,At-Risk / Inactive
+C1048,47,Female,Bengaluru,16.6,130,6,14660.4,2443.4,1,Family Essential Buyers
+C1049,40,Male,Nagpur,10.2,83,2,2548.8,1274.4,2,At-Risk / Inactive
+C1050,29,Female,Delhi,7.0,56,13,9675.74,744.2876923076923,3,Young Trend Shoppers
+C1051,30,Female,Delhi,13.2,261,8,13190.92,1648.865,1,Family Essential Buyers
+C1052,51,Male,Mumbai,19.4,27,25,128477.45,5139.098,0,Premium Loyalists
+C1053,22,Female,Bengaluru,7.2,29,7,15883.439999999999,2269.062857142857,3,Young Trend Shoppers
+C1054,41,Male,Delhi,12.3,11,40,233390.54,5834.7635,0,Premium Loyalists
+C1055,21,Female,Bengaluru,5.7,22,9,12771.15,1419.0166666666667,3,Young Trend Shoppers
+C1056,44,Male,Pune,13.2,3,7,13936.21,1990.8871428571426,1,Family Essential Buyers
+C1057,37,Male,Mumbai,7.3,365,1,2666.4,2666.4,2,At-Risk / Inactive
+C1058,27,Female,Delhi,7.3,9,8,9905.83,1238.22875,3,Young Trend Shoppers
+C1059,34,Female,Pune,8.6,33,19,30951.04,1629.002105263158,1,Family Essential Buyers
+C1060,18,Female,Nagpur,7.7,137,1,2307.94,2307.94,2,At-Risk / Inactive
+C1061,36,Male,Nagpur,9.8,128,1,1271.54,1271.54,2,At-Risk / Inactive
+C1062,39,Female,Pune,11.5,69,4,8800.84,2200.21,1,Family Essential Buyers
+C1063,27,Female,Mumbai,6.0,34,8,9840.19,1230.02375,3,Young Trend Shoppers
+C1064,37,Male,Mumbai,12.9,213,6,25796.95,4299.491666666667,1,Family Essential Buyers
+C1065,43,Male,Mumbai,6.9,25,7,9459.95,1351.4214285714286,1,Family Essential Buyers
+C1066,23,Male,Delhi,9.9,226,1,1942.25,1942.25,2,At-Risk / Inactive
+C1067,35,Male,Nagpur,8.3,47,21,29570.22,1408.1057142857144,1,Family Essential Buyers
+C1068,44,Female,Delhi,7.7,87,4,10406.63,2601.6575,1,Family Essential Buyers
+C1069,52,Female,Pune,29.4,47,33,109747.84,3325.692121212121,0,Premium Loyalists
+C1070,21,Female,Bengaluru,6.9,40,10,16230.15,1623.0149999999999,3,Young Trend Shoppers
+C1071,43,Male,Delhi,12.3,235,4,10406.19,2601.5475,1,Family Essential Buyers
+C1072,29,Female,Pune,10.6,35,7,16647.37,2378.195714285714,1,Family Essential Buyers
+C1073,23,Female,Mumbai,4.7,52,11,18725.02,1702.2745454545454,3,Young Trend Shoppers
+C1074,28,Male,Pune,8.5,85,3,7999.9400000000005,2666.646666666667,2,At-Risk / Inactive
+C1075,29,Female,Delhi,7.3,365,3,2541.39,847.13,2,At-Risk / Inactive
+C1076,18,Male,Bengaluru,4.7,16,7,9935.23,1419.3185714285714,3,Young Trend Shoppers
+C1077,27,Male,Mumbai,8.6,65,6,19639.13,3273.1883333333335,1,Family Essential Buyers
+C1078,33,Male,Delhi,3.1,22,14,34065.68,2433.2628571428572,3,Young Trend Shoppers
+C1079,36,Male,Mumbai,9.3,26,15,34773.6,2318.24,1,Family Essential Buyers
+C1080,19,Male,Mumbai,5.0,2,13,17667.13,1359.01,3,Young Trend Shoppers
+C1081,30,Female,Pune,5.5,174,11,20606.27,1873.2972727272727,3,Young Trend Shoppers
+C1082,33,Male,Delhi,10.5,11,1,2477.8,2477.8,2,At-Risk / Inactive
+C1083,38,Male,Pune,11.4,273,3,4373.58,1457.86,2,At-Risk / Inactive
+C1084,49,Male,Delhi,5.3,188,1,1709.01,1709.01,2,At-Risk / Inactive
+C1085,35,Male,Pune,12.4,176,8,12279.03,1534.87875,1,Family Essential Buyers
+C1086,35,Female,Mumbai,8.5,5,13,25424.64,1955.7415384615383,1,Family Essential Buyers
+C1087,35,Male,Bengaluru,9.6,83,13,23618.21,1816.7853846153846,1,Family Essential Buyers
+C1088,47,Female,Mumbai,15.5,23,12,37840.52,3153.3766666666666,0,Premium Loyalists
+C1089,46,Female,Pune,11.4,85,6,15777.45,2629.5750000000003,1,Family Essential Buyers
+C1090,26,Male,Delhi,6.7,31,16,14374.69,898.418125,3,Young Trend Shoppers
+C1091,18,Female,Bengaluru,7.5,6,12,16493.02,1374.4183333333333,3,Young Trend Shoppers
+C1092,36,Female,Delhi,8.4,42,7,25861.95,3694.5642857142857,1,Family Essential Buyers
+C1093,25,Male,Mumbai,8.6,16,18,24862.56,1381.2533333333333,3,Young Trend Shoppers
+C1094,31,Male,Delhi,5.8,31,2,2442.7200000000003,1221.3600000000001,2,At-Risk / Inactive
+C1095,41,Female,Delhi,12.7,2,10,19377.19,1937.7189999999998,1,Family Essential Buyers
+C1096,20,Female,Mumbai,6.6,120,11,14580.99,1325.5445454545454,3,Young Trend Shoppers
+C1097,18,Female,Bengaluru,5.9,7,1,1278.83,1278.83,2,At-Risk / Inactive
+C1098,32,Male,Bengaluru,9.2,245,1,1533.62,1533.62,2,At-Risk / Inactive
+C1099,49,Male,Delhi,10.8,164,6,17091.46,2848.5766666666664,1,Family Essential Buyers
+C1100,37,Male,Nagpur,14.8,1,21,115552.45,5502.497619047619,0,Premium Loyalists
+C1101,42,Male,Mumbai,13.4,20,33,135409.74,4103.325454545455,0,Premium Loyalists
+C1102,32,Male,Mumbai,7.1,24,12,9883.45,823.6208333333334,3,Young Trend Shoppers
+C1103,32,Male,Nagpur,7.7,123,2,5264.85,2632.425,2,At-Risk / Inactive
+C1104,47,Female,Pune,5.6,365,3,6053.35,2017.7833333333335,2,At-Risk / Inactive
+C1105,48,Male,Bengaluru,18.3,8,30,112898.27,3763.275666666667,0,Premium Loyalists
+C1106,36,Male,Mumbai,9.8,139,6,11174.53,1862.4216666666669,1,Family Essential Buyers
+C1107,60,Female,Pune,20.2,13,30,134485.17,4482.839000000001,0,Premium Loyalists
+C1108,26,Female,Mumbai,5.4,16,14,25062.46,1790.1757142857143,3,Young Trend Shoppers
+C1109,42,Female,Bengaluru,6.4,10,3,4781.52,1593.8400000000001,1,Family Essential Buyers
+C1110,25,Female,Mumbai,3.9,10,14,12840.02,917.1442857142857,3,Young Trend Shoppers
+C1111,52,Male,Mumbai,16.8,23,17,72301.37,4253.021764705882,0,Premium Loyalists
+C1112,23,Female,Bengaluru,6.7,42,13,18353.87,1411.8361538461538,3,Young Trend Shoppers
+C1113,32,Male,Mumbai,6.9,19,10,19393.3,1939.33,3,Young Trend Shoppers
+C1114,44,Female,Pune,9.1,140,2,4053.7,2026.85,2,At-Risk / Inactive
+C1115,23,Female,Bengaluru,9.2,340,2,2345.62,1172.81,2,At-Risk / Inactive
+C1116,46,Male,Bengaluru,24.2,18,18,80220.55,4456.697222222222,0,Premium Loyalists
+C1117,37,Female,Mumbai,20.1,15,17,70819.62,4165.86,0,Premium Loyalists
+C1118,19,Male,Mumbai,8.0,203,3,3937.12,1312.3733333333332,2,At-Risk / Inactive
+C1119,26,Female,Delhi,7.4,14,20,20997.78,1049.889,3,Young Trend Shoppers
+C1120,34,Male,Bengaluru,11.7,12,2,3042.59,1521.295,2,At-Risk / Inactive
+C1121,50,Male,Pune,8.8,163,8,19323.85,2415.48125,1,Family Essential Buyers
+C1122,42,Male,Bengaluru,18.6,13,25,109815.85,4392.634,0,Premium Loyalists
+C1123,28,Female,Nagpur,6.1,88,1,2210.45,2210.45,2,At-Risk / Inactive
+C1124,37,Male,Delhi,18.3,16,15,73699.52,4913.301333333334,0,Premium Loyalists
+C1125,26,Female,Mumbai,7.4,10,5,7298.8,1459.76,3,Young Trend Shoppers
+C1126,39,Male,Delhi,9.8,8,8,12658.310000000001,1582.2887500000002,1,Family Essential Buyers
+C1127,42,Female,Delhi,5.3,109,6,10329.75,1721.625,1,Family Essential Buyers
+C1128,38,Male,Mumbai,13.6,58,5,10970.56,2194.112,1,Family Essential Buyers
+C1129,44,Female,Mumbai,11.6,12,23,47705.54,2074.1539130434785,1,Family Essential Buyers
+C1130,30,Female,Nagpur,8.4,305,1,1104.64,1104.64,2,At-Risk / Inactive
+C1131,45,Male,Delhi,9.3,188,2,3240.1699999999996,1620.0849999999998,2,At-Risk / Inactive
+C1132,38,Female,Nagpur,5.0,226,4,8730.09,2182.5225,2,At-Risk / Inactive
+C1133,27,Male,Pune,27.5,8,30,161124.34,5370.811333333333,0,Premium Loyalists
+C1134,35,Male,Pune,6.5,52,8,12270.91,1533.86375,1,Family Essential Buyers
+C1135,18,Male,Pune,11.0,212,1,949.11,949.11,2,At-Risk / Inactive
+C1136,19,Male,Bengaluru,5.0,18,9,11750.45,1305.6055555555556,3,Young Trend Shoppers
+C1137,18,Male,Delhi,7.2,12,18,28795.87,1599.7705555555556,3,Young Trend Shoppers
+C1138,21,Female,Mumbai,7.8,24,14,12342.619999999999,881.6157142857143,3,Young Trend Shoppers
+C1139,58,Male,Delhi,16.1,1,11,24045.94,2185.9945454545455,0,Premium Loyalists
+C1140,51,Male,Mumbai,7.9,163,9,16655.93,1850.658888888889,1,Family Essential Buyers
+C1141,18,Female,Pune,5.7,102,18,15917.17,884.2872222222222,3,Young Trend Shoppers
+C1142,36,Female,Mumbai,6.9,3,1,2664.52,2664.52,2,At-Risk / Inactive
+C1143,31,Male,Mumbai,7.2,17,2,1881.79,940.895,2,At-Risk / Inactive
+C1144,32,Male,Bengaluru,7.9,77,1,834.72,834.72,2,At-Risk / Inactive
+C1145,22,Male,Bengaluru,7.0,13,12,17480.170000000002,1456.6808333333336,3,Young Trend Shoppers
+C1146,27,Male,Bengaluru,4.6,10,7,14584.43,2083.4900000000002,3,Young Trend Shoppers
+C1147,41,Male,Mumbai,10.1,4,8,17551.33,2193.91625,1,Family Essential Buyers
+C1148,31,Male,Delhi,13.7,11,3,6888.530000000001,2296.1766666666667,1,Family Essential Buyers
+C1149,39,Female,Delhi,8.1,161,3,3610.83,1203.61,2,At-Risk / Inactive
+C1150,40,Female,Bengaluru,10.9,254,1,1239.57,1239.57,2,At-Risk / Inactive
+C1151,46,Male,Mumbai,6.6,2,16,65077.43,4067.339375,0,Premium Loyalists
+C1152,40,Male,Bengaluru,9.7,365,1,2798.22,2798.22,2,At-Risk / Inactive
+C1153,43,Male,Nagpur,20.2,1,35,144236.94,4121.055428571429,0,Premium Loyalists
+C1154,51,Male,Delhi,17.7,14,30,187260.98,6242.032666666667,0,Premium Loyalists
+C1155,29,Female,Bengaluru,8.8,34,17,34767.31,2045.135882352941,3,Young Trend Shoppers
+C1156,36,Male,Delhi,16.0,30,15,70279.05,4685.27,0,Premium Loyalists
+C1157,41,Male,Mumbai,27.4,5,11,67571.83,6142.893636363637,0,Premium Loyalists
+C1158,54,Female,Mumbai,14.0,28,14,61150.96,4367.925714285714,0,Premium Loyalists
+C1159,40,Male,Mumbai,4.1,19,7,7336.41,1048.0585714285714,3,Young Trend Shoppers
+C1160,34,Female,Mumbai,8.9,13,11,16573.79,1506.7081818181819,3,Young Trend Shoppers
+C1161,35,Female,Mumbai,12.3,4,31,149124.65,4810.4725806451615,0,Premium Loyalists
+C1162,37,Female,Mumbai,6.6,75,9,10643.41,1182.601111111111,1,Family Essential Buyers
+C1163,38,Female,Pune,7.7,205,3,3914.0499999999997,1304.6833333333332,2,At-Risk / Inactive
+C1164,33,Female,Mumbai,17.8,16,21,117751.29,5607.204285714285,0,Premium Loyalists
+C1165,39,Female,Mumbai,17.3,5,26,143076.68,5502.949230769231,0,Premium Loyalists
+C1166,36,Male,Mumbai,9.7,76,1,917.03,917.03,2,At-Risk / Inactive
+C1167,23,Female,Bengaluru,6.9,32,1,1691.14,1691.14,2,At-Risk / Inactive
+C1168,38,Male,Nagpur,7.9,1,9,21895.48,2432.831111111111,1,Family Essential Buyers
+C1169,36,Female,Delhi,9.9,185,3,5330.63,1776.8766666666668,2,At-Risk / Inactive
+C1170,44,Female,Bengaluru,24.3,27,22,109013.28,4955.149090909091,0,Premium Loyalists
+C1171,22,Male,Mumbai,7.3,65,10,12842.39,1284.239,3,Young Trend Shoppers
+C1172,27,Female,Mumbai,8.6,25,11,19483.92,1771.2654545454543,3,Young Trend Shoppers
+C1173,23,Female,Delhi,3.3,97,14,26895.9,1921.1357142857144,3,Young Trend Shoppers
+C1174,29,Female,Delhi,13.0,3,21,49617.72,2362.7485714285713,0,Premium Loyalists
+C1175,37,Male,Delhi,8.1,54,11,23543.57,2140.3245454545454,1,Family Essential Buyers
+C1176,39,Male,Nagpur,10.7,117,4,6142.76,1535.69,2,At-Risk / Inactive
+C1177,18,Female,Bengaluru,9.7,23,6,9704.35,1617.3916666666667,3,Young Trend Shoppers
+C1178,31,Male,Delhi,6.9,15,14,14295.35,1021.0964285714286,3,Young Trend Shoppers
+C1179,29,Female,Nagpur,3.4,49,15,17660.73,1177.382,3,Young Trend Shoppers
+C1180,32,Male,Pune,9.4,51,10,18934.010000000002,1893.4010000000003,1,Family Essential Buyers
+C1181,30,Female,Nagpur,8.6,105,14,25811.47,1843.6764285714287,1,Family Essential Buyers
+C1182,36,Female,Mumbai,26.4,13,29,143342.53,4942.845862068965,0,Premium Loyalists
+C1183,32,Male,Nagpur,21.9,1,19,79547.06999999999,4186.687894736841,0,Premium Loyalists
+C1184,44,Male,Delhi,11.9,10,17,67102.15,3947.1852941176467,0,Premium Loyalists
+C1185,36,Male,Bengaluru,17.4,4,25,108034.78,4321.3912,0,Premium Loyalists
+C1186,36,Male,Bengaluru,10.9,1,1,2625.99,2625.99,1,Family Essential Buyers
+C1187,19,Female,Delhi,6.5,7,16,23900.03,1493.751875,3,Young Trend Shoppers
+C1188,25,Male,Bengaluru,11.9,159,1,1575.87,1575.87,2,At-Risk / Inactive
+C1189,41,Female,Pune,17.0,35,27,110805.86,4103.920740740741,0,Premium Loyalists
+C1190,30,Male,Delhi,9.1,2,12,25708.57,2142.380833333333,3,Young Trend Shoppers
+C1191,23,Male,Mumbai,6.9,171,11,16373.689999999999,1488.5172727272727,3,Young Trend Shoppers
+C1192,18,Female,Mumbai,5.6,8,17,24581.19,1445.9523529411763,3,Young Trend Shoppers
+C1193,38,Male,Delhi,7.2,86,3,4437.05,1479.0166666666667,2,At-Risk / Inactive
+C1194,38,Female,Nagpur,10.4,150,1,1661.74,1661.74,2,At-Risk / Inactive
+C1195,26,Female,Nagpur,6.1,316,1,3725.3,3725.3,2,At-Risk / Inactive
+C1196,36,Male,Bengaluru,4.6,4,9,15987.28,1776.3644444444444,3,Young Trend Shoppers
+C1197,38,Female,Bengaluru,3.3,64,8,12417.73,1552.21625,1,Family Essential Buyers
+C1198,40,Female,Pune,11.1,31,9,20616.95,2290.7722222222224,1,Family Essential Buyers
+C1199,20,Female,Delhi,5.4,20,2,1163.82,581.91,2,At-Risk / Inactive
+C1200,47,Female,Nagpur,8.2,239,9,13771.75,1530.1944444444443,1,Family Essential Buyers
+C1201,35,Female,Mumbai,12.1,81,8,36711.409999999996,4588.9262499999995,1,Family Essential Buyers
+C1202,42,Female,Mumbai,7.9,133,5,10423.11,2084.6220000000003,1,Family Essential Buyers
+C1203,24,Female,Nagpur,7.7,194,1,1091.57,1091.57,2,At-Risk / Inactive
+C1204,36,Female,Mumbai,12.9,92,8,21298.03,2662.25375,1,Family Essential Buyers
+C1205,52,Female,Mumbai,17.8,9,17,52722.51,3101.3241176470588,0,Premium Loyalists
+C1206,53,Female,Delhi,17.2,5,20,79215.83,3960.7915000000003,0,Premium Loyalists
+C1207,38,Male,Pune,9.3,5,10,34210.69,3421.0690000000004,1,Family Essential Buyers
+C1208,19,Male,Bengaluru,12.8,57,6,9334.24,1555.7066666666667,3,Young Trend Shoppers
+C1209,20,Female,Pune,4.2,68,11,8595.99,781.4536363636363,3,Young Trend Shoppers
+C1210,18,Male,Bengaluru,5.8,1,16,37270.5,2329.40625,3,Young Trend Shoppers
+C1211,41,Male,Bengaluru,10.9,30,4,11890.029999999999,2972.5074999999997,1,Family Essential Buyers
+C1212,31,Male,Bengaluru,8.6,204,3,3234.7,1078.2333333333333,2,At-Risk / Inactive
+C1213,39,Female,Mumbai,9.5,14,6,19506.45,3251.0750000000003,1,Family Essential Buyers
+C1214,18,Female,Mumbai,5.6,3,19,32791.35,1725.8605263157895,3,Young Trend Shoppers
+C1215,28,Female,Pune,6.8,11,9,10175.74,1130.6377777777777,3,Young Trend Shoppers
+C1216,36,Male,Mumbai,8.7,60,9,21086.82,2342.98,1,Family Essential Buyers
+C1217,30,Female,Pune,6.5,3,9,9490.48,1054.4977777777776,3,Young Trend Shoppers
+C1218,38,Male,Nagpur,5.7,32,9,27020.82,3002.3133333333335,1,Family Essential Buyers
+C1219,54,Male,Delhi,10.9,35,8,16610.79,2076.34875,1,Family Essential Buyers
+C1220,37,Female,Bengaluru,17.5,1,20,77859.04000000001,3892.952,0,Premium Loyalists
+C1221,50,Female,Mumbai,19.3,18,21,75825.99,3610.761428571429,0,Premium Loyalists
+C1222,35,Female,Bengaluru,7.6,96,7,7898.28,1128.3257142857142,1,Family Essential Buyers
+C1223,42,Male,Bengaluru,9.3,31,2,4324.04,2162.02,2,At-Risk / Inactive
+C1224,45,Female,Bengaluru,9.3,51,7,15684.95,2240.707142857143,1,Family Essential Buyers
+C1225,54,Female,Bengaluru,17.0,2,22,101170.14,4598.642727272727,0,Premium Loyalists
+C1226,35,Female,Pune,9.2,16,2,5652.66,2826.33,1,Family Essential Buyers
+C1227,19,Male,Bengaluru,5.0,29,13,28296.14,2176.626153846154,3,Young Trend Shoppers
+C1228,33,Female,Pune,8.2,83,12,14086.25,1173.8541666666667,3,Young Trend Shoppers
+C1229,28,Male,Pune,6.1,365,2,7112.9800000000005,3556.4900000000002,2,At-Risk / Inactive
+C1230,49,Female,Delhi,23.1,10,20,109830.19,5491.5095,0,Premium Loyalists
+C1231,28,Male,Bengaluru,4.1,4,6,5535.96,922.66,3,Young Trend Shoppers
+C1232,38,Female,Delhi,8.3,51,6,9043.55,1507.2583333333332,1,Family Essential Buyers
+C1233,18,Male,Pune,6.2,52,10,17294.91,1729.491,3,Young Trend Shoppers
+C1234,29,Male,Mumbai,6.3,26,4,9618.44,2404.61,1,Family Essential Buyers
+C1235,29,Male,Delhi,6.9,41,19,27949.28,1471.014736842105,3,Young Trend Shoppers
+C1236,45,Female,Pune,21.0,3,35,101220.39,2892.0111428571427,0,Premium Loyalists
+C1237,31,Male,Delhi,6.9,58,13,17557.25,1350.5576923076924,3,Young Trend Shoppers
+C1238,29,Male,Mumbai,7.0,105,10,18284.46,1828.446,3,Young Trend Shoppers
+C1239,18,Female,Delhi,11.4,3,24,149598.98,6233.2908333333335,0,Premium Loyalists
+C1240,31,Female,Bengaluru,21.7,15,35,179498.15,5128.518571428572,0,Premium Loyalists
+C1241,36,Female,Pune,9.4,135,3,6152.4,2050.7999999999997,2,At-Risk / Inactive
+C1242,18,Male,Bengaluru,7.2,55,5,8430.18,1686.036,3,Young Trend Shoppers
+C1243,24,Female,Pune,5.5,4,13,17554.77,1350.366923076923,3,Young Trend Shoppers
+C1244,33,Male,Bengaluru,22.8,22,20,117501.34,5875.067,0,Premium Loyalists
+C1245,32,Male,Mumbai,7.6,8,9,7307.35,811.9277777777778,3,Young Trend Shoppers
+C1246,18,Male,Nagpur,7.3,52,6,6725.52,1120.92,3,Young Trend Shoppers
+C1247,30,Female,Pune,12.5,10,13,35340.39,2718.4915384615383,1,Family Essential Buyers
+C1248,28,Male,Bengaluru,6.4,64,11,12007.61,1091.6009090909092,3,Young Trend Shoppers
+C1249,31,Female,Bengaluru,8.6,6,2,2417.18,1208.59,2,At-Risk / Inactive
+C1250,37,Male,Delhi,10.1,182,1,1957.04,1957.04,2,At-Risk / Inactive
+C1251,44,Female,Mumbai,33.8,62,22,156210.3,7100.468181818182,0,Premium Loyalists
+C1252,50,Male,Delhi,22.4,12,19,65776.33,3461.912105263158,0,Premium Loyalists
+C1253,38,Female,Mumbai,17.7,31,24,121963.15000000001,5081.797916666667,0,Premium Loyalists
+C1254,45,Female,Bengaluru,11.2,1,15,29248.03,1949.8686666666665,1,Family Essential Buyers
+C1255,25,Female,Mumbai,21.5,51,25,91251.22,3650.0488,0,Premium Loyalists
+C1256,20,Female,Delhi,7.2,113,1,1572.32,1572.32,2,At-Risk / Inactive
+C1257,35,Male,Bengaluru,9.9,208,9,18183.28,2020.3644444444444,1,Family Essential Buyers
+C1258,35,Male,Delhi,6.9,3,5,11709.75,2341.95,1,Family Essential Buyers
+C1259,45,Female,Pune,10.7,10,10,18750.94,1875.0939999999998,1,Family Essential Buyers
+C1260,24,Female,Pune,3.6,44,1,1068.6,1068.6,2,At-Risk / Inactive
+C1261,35,Male,Bengaluru,18.7,12,31,83475.16,2692.747096774194,0,Premium Loyalists
+C1262,32,Male,Mumbai,7.0,6,12,14467.51,1205.6258333333333,3,Young Trend Shoppers
+C1263,18,Male,Nagpur,5.5,16,15,18898.67,1259.9113333333332,3,Young Trend Shoppers
+C1264,30,Female,Mumbai,10.8,9,1,945.57,945.57,2,At-Risk / Inactive
+C1265,62,Female,Nagpur,11.6,12,8,12217.38,1527.1725,1,Family Essential Buyers
+C1266,50,Male,Mumbai,10.6,261,3,6154.6900000000005,2051.5633333333335,2,At-Risk / Inactive
+C1267,53,Male,Nagpur,16.4,2,10,28556.43,2855.643,0,Premium Loyalists
+C1268,32,Male,Pune,6.5,76,1,1206.33,1206.33,2,At-Risk / Inactive
+C1269,33,Male,Bengaluru,17.6,23,4,6456.200000000001,1614.0500000000002,1,Family Essential Buyers
+C1270,21,Female,Mumbai,11.4,51,15,29526.350000000002,1968.4233333333334,3,Young Trend Shoppers
+C1271,33,Male,Mumbai,5.9,58,3,6430.98,2143.66,2,At-Risk / Inactive
+C1272,21,Male,Mumbai,5.4,18,14,18654.56,1332.4685714285715,3,Young Trend Shoppers
+C1273,37,Female,Mumbai,7.9,17,14,39464.21,2818.872142857143,1,Family Essential Buyers
+C1274,33,Male,Mumbai,10.0,6,5,9596.05,1919.2099999999998,1,Family Essential Buyers
+C1275,56,Female,Mumbai,19.6,34,47,177668.72,3780.1855319148935,0,Premium Loyalists
+C1276,19,Male,Mumbai,7.1,10,4,4297.82,1074.455,3,Young Trend Shoppers
+C1277,31,Female,Bengaluru,5.9,1,15,20917.95,1394.53,3,Young Trend Shoppers
+C1278,40,Female,Mumbai,25.7,60,29,127513.01,4397.000344827586,0,Premium Loyalists
+C1279,36,Male,Pune,6.9,27,4,5930.32,1482.58,1,Family Essential Buyers
+C1280,45,Male,Delhi,7.9,117,15,22488.88,1499.2586666666668,1,Family Essential Buyers
+C1281,26,Male,Pune,7.2,71,13,14552.69,1119.4376923076923,3,Young Trend Shoppers
+C1282,18,Female,Pune,6.8,17,11,17732.48,1612.0436363636363,3,Young Trend Shoppers
+C1283,31,Male,Bengaluru,7.0,44,10,9593.23,959.323,3,Young Trend Shoppers
+C1284,37,Male,Mumbai,9.0,78,7,16235.32,2319.3314285714287,1,Family Essential Buyers
+C1285,27,Male,Bengaluru,5.7,68,2,2734.42,1367.21,2,At-Risk / Inactive
+C1286,19,Female,Bengaluru,9.3,365,2,4492.9400000000005,2246.4700000000003,2,At-Risk / Inactive
+C1287,22,Male,Pune,7.8,6,21,31181.73,1484.8442857142857,3,Young Trend Shoppers
+C1288,29,Male,Mumbai,5.4,53,12,13207.12,1100.5933333333335,3,Young Trend Shoppers
+C1289,43,Male,Delhi,5.0,18,11,12484.49,1134.9536363636364,1,Family Essential Buyers
+C1290,43,Male,Mumbai,14.5,54,10,29541.81,2954.181,1,Family Essential Buyers
+C1291,34,Female,Mumbai,6.4,12,19,30065.87,1582.4142105263156,3,Young Trend Shoppers
+C1292,56,Female,Pune,6.1,10,11,28141.63,2558.33,1,Family Essential Buyers
+C1293,30,Male,Bengaluru,12.9,32,7,13428.279999999999,1918.3257142857142,1,Family Essential Buyers
+C1294,33,Male,Nagpur,7.0,2,20,53629.43,2681.4715,3,Young Trend Shoppers
+C1295,24,Male,Mumbai,5.4,52,11,11334.529999999999,1030.411818181818,3,Young Trend Shoppers
+C1296,38,Male,Mumbai,5.8,28,8,8076.299999999999,1009.5374999999999,3,Young Trend Shoppers
+C1297,42,Male,Bengaluru,20.8,36,11,51434.81,4675.891818181818,0,Premium Loyalists
+C1298,39,Female,Bengaluru,17.3,13,17,118863.92,6991.995294117647,0,Premium Loyalists
+C1299,46,Female,Nagpur,13.7,29,8,21261.97,2657.74625,1,Family Essential Buyers
+C1300,18,Female,Pune,3.8,12,17,25568.239999999998,1504.0141176470588,3,Young Trend Shoppers
+C1301,30,Male,Mumbai,8.3,60,12,13483.65,1123.6375,3,Young Trend Shoppers
+C1302,31,Male,Bengaluru,6.8,73,7,15553.98,2221.997142857143,1,Family Essential Buyers
+C1303,29,Female,Delhi,15.1,69,10,25799.4,2579.94,1,Family Essential Buyers
+C1304,18,Male,Bengaluru,4.8,3,9,16463.54,1829.2822222222223,3,Young Trend Shoppers
+C1305,29,Male,Pune,9.5,94,1,1997.81,1997.81,2,At-Risk / Inactive
+C1306,34,Female,Pune,9.4,1,2,4713.15,2356.575,1,Family Essential Buyers
+C1307,43,Female,Bengaluru,12.4,4,6,14151.349999999999,2358.558333333333,1,Family Essential Buyers
+C1308,33,Male,Mumbai,10.5,62,8,13225.85,1653.23125,1,Family Essential Buyers
+C1309,34,Male,Mumbai,20.2,45,17,84779.29000000001,4987.01705882353,0,Premium Loyalists
+C1310,51,Female,Mumbai,7.3,51,2,5445.48,2722.74,1,Family Essential Buyers
+C1311,38,Female,Pune,5.2,8,7,12174.380000000001,1739.197142857143,1,Family Essential Buyers
+C1312,32,Male,Nagpur,10.0,231,3,6076.95,2025.6499999999999,2,At-Risk / Inactive
+C1313,38,Male,Delhi,10.1,275,17,36766.77,2162.7511764705882,1,Family Essential Buyers
+C1314,32,Male,Delhi,8.1,12,17,107840.84,6343.578823529411,0,Premium Loyalists
+C1315,35,Male,Mumbai,12.7,31,27,152191.63,5636.727037037037,0,Premium Loyalists
+C1316,23,Female,Nagpur,11.0,51,4,9847.66,2461.915,1,Family Essential Buyers
+C1317,45,Male,Mumbai,13.5,2,22,43708.71,1986.7595454545453,0,Premium Loyalists
+C1318,27,Female,Mumbai,14.5,6,16,77634.29,4852.143125,0,Premium Loyalists
+C1319,34,Male,Mumbai,15.7,87,10,22062.629999999997,2206.263,1,Family Essential Buyers
+C1320,31,Male,Delhi,7.8,365,6,10875.41,1812.5683333333334,2,At-Risk / Inactive
+C1321,27,Female,Pune,10.1,12,5,10848.3,2169.66,3,Young Trend Shoppers
+C1322,32,Male,Mumbai,5.9,52,14,11590.16,827.8685714285714,3,Young Trend Shoppers
+C1323,37,Female,Pune,12.0,10,21,118095.23,5623.582380952381,0,Premium Loyalists
+C1324,35,Male,Mumbai,10.7,335,4,4230.85,1057.7125,2,At-Risk / Inactive
+C1325,18,Female,Bengaluru,6.8,28,9,22716.34,2524.0377777777776,3,Young Trend Shoppers
+C1326,51,Male,Pune,10.6,349,3,6351.52,2117.1733333333336,2,At-Risk / Inactive
+C1327,25,Male,Delhi,6.9,24,13,11304.9,869.6076923076923,3,Young Trend Shoppers
+C1328,34,Female,Mumbai,8.2,25,5,11714.8,2342.96,1,Family Essential Buyers
+C1329,27,Female,Mumbai,3.3,115,17,25694.29,1511.4288235294118,3,Young Trend Shoppers
+C1330,47,Female,Nagpur,18.6,23,12,65968.14,5497.345,0,Premium Loyalists
+C1331,35,Male,Mumbai,9.7,1,6,9635.53,1605.9216666666669,3,Young Trend Shoppers
+C1332,23,Female,Mumbai,9.3,35,5,15459.09,3091.818,1,Family Essential Buyers
+C1333,28,Female,Mumbai,6.4,5,8,17532.08,2191.51,3,Young Trend Shoppers
+C1334,33,Male,Mumbai,7.6,292,2,3256.91,1628.455,2,At-Risk / Inactive
+C1335,42,Female,Nagpur,6.9,365,1,5672.85,5672.85,2,At-Risk / Inactive
+C1336,35,Female,Delhi,12.8,60,7,10657.48,1522.4971428571428,1,Family Essential Buyers
+C1337,19,Female,Mumbai,5.3,37,11,16958.65,1541.6954545454546,3,Young Trend Shoppers
+C1338,31,Female,Mumbai,9.5,39,6,14079.29,2346.5483333333336,1,Family Essential Buyers
+C1339,18,Male,Mumbai,7.9,365,7,14475.64,2067.9485714285715,3,Young Trend Shoppers
+C1340,21,Female,Bengaluru,9.4,202,15,21788.14,1452.5426666666667,3,Young Trend Shoppers
+C1341,37,Female,Mumbai,18.3,19,21,142450.51,6783.35761904762,0,Premium Loyalists
+C1342,18,Female,Mumbai,8.4,12,2,3352.59,1676.295,2,At-Risk / Inactive
+C1343,34,Female,Nagpur,13.0,46,9,9343.12,1038.1244444444446,1,Family Essential Buyers
+C1344,47,Female,Bengaluru,12.1,20,3,6886.280000000001,2295.4266666666667,1,Family Essential Buyers
+C1345,39,Male,Bengaluru,10.9,105,8,15398.04,1924.755,1,Family Essential Buyers
+C1346,39,Male,Delhi,9.1,69,6,11915.42,1985.9033333333334,1,Family Essential Buyers
+C1347,30,Male,Mumbai,6.8,18,8,18070.83,2258.85375,3,Young Trend Shoppers
+C1348,19,Male,Delhi,5.1,77,6,4942.4,823.7333333333332,3,Young Trend Shoppers
+C1349,21,Male,Delhi,5.0,62,17,29185.48,1716.7929411764705,3,Young Trend Shoppers
+C1350,25,Female,Bengaluru,20.1,13,29,225605.0,7779.482758620689,0,Premium Loyalists
+C1351,26,Male,Mumbai,8.5,365,3,4121.51,1373.8366666666668,2,At-Risk / Inactive
+C1352,36,Male,Nagpur,11.9,129,1,1254.58,1254.58,2,At-Risk / Inactive
+C1353,25,Male,Mumbai,5.2,41,11,18320.58,1665.507272727273,3,Young Trend Shoppers
+C1354,23,Male,Mumbai,7.8,216,12,23731.0,1977.5833333333333,3,Young Trend Shoppers
+C1355,38,Male,Pune,7.5,76,1,1611.52,1611.52,2,At-Risk / Inactive
+C1356,50,Male,Mumbai,23.9,41,33,95962.38,2907.950909090909,0,Premium Loyalists
+C1357,35,Male,Nagpur,10.3,38,9,18250.01,2027.7788888888888,1,Family Essential Buyers
+C1358,34,Female,Pune,6.7,21,10,10928.02,1092.8020000000001,3,Young Trend Shoppers
+C1359,46,Male,Mumbai,8.3,105,7,14210.98,2030.1399999999999,1,Family Essential Buyers
+C1360,39,Male,Nagpur,20.2,9,61,310008.39,5082.104754098361,0,Premium Loyalists
+C1361,21,Male,Delhi,9.2,84,10,23812.71,2381.2709999999997,3,Young Trend Shoppers
+C1362,19,Female,Mumbai,4.5,14,10,14459.0,1445.9,3,Young Trend Shoppers
+C1363,48,Male,Delhi,13.7,220,11,28833.95,2621.268181818182,1,Family Essential Buyers
+C1364,49,Female,Bengaluru,24.1,4,28,76744.28,2740.867142857143,0,Premium Loyalists
+C1365,25,Male,Mumbai,5.4,41,8,9900.81,1237.60125,3,Young Trend Shoppers
+C1366,48,Male,Bengaluru,13.5,7,6,11574.21,1929.0349999999999,1,Family Essential Buyers
+C1367,37,Male,Bengaluru,5.3,61,12,10799.4,899.9499999999999,3,Young Trend Shoppers
+C1368,39,Female,Mumbai,18.2,8,32,150932.79,4716.6496875,0,Premium Loyalists
+C1369,23,Male,Pune,2.3,54,12,10548.99,879.0825,3,Young Trend Shoppers
+C1370,20,Male,Bengaluru,6.2,23,22,53098.66,2413.5754545454547,3,Young Trend Shoppers
+C1371,40,Female,Mumbai,13.8,15,24,86775.39,3615.64125,0,Premium Loyalists
+C1372,28,Female,Pune,10.7,47,1,1565.25,1565.25,2,At-Risk / Inactive
+C1373,26,Male,Mumbai,7.9,27,17,17391.51,1023.0299999999999,3,Young Trend Shoppers
+C1374,20,Female,Mumbai,13.8,83,1,673.57,673.57,2,At-Risk / Inactive
+C1375,23,Male,Delhi,9.6,1,1,1660.85,1660.85,2,At-Risk / Inactive
+C1376,44,Female,Delhi,20.0,5,21,68037.83,3239.8966666666665,0,Premium Loyalists
+C1377,34,Female,Mumbai,12.1,6,9,26787.739999999998,2976.4155555555553,1,Family Essential Buyers
+C1378,18,Male,Mumbai,8.9,325,2,1677.47,838.735,2,At-Risk / Inactive
+C1379,29,Female,Pune,9.7,52,7,13467.45,1923.9214285714286,1,Family Essential Buyers
+C1380,21,Male,Delhi,4.8,77,13,16678.55,1282.9653846153847,3,Young Trend Shoppers
+C1381,21,Male,Pune,5.2,2,11,15193.130000000001,1381.1936363636364,3,Young Trend Shoppers
+C1382,35,Male,Bengaluru,19.0,6,13,102870.81,7913.13923076923,0,Premium Loyalists
+C1383,33,Female,Bengaluru,9.4,92,4,7817.08,1954.27,2,At-Risk / Inactive
+C1384,33,Male,Mumbai,11.4,275,1,1516.47,1516.47,2,At-Risk / Inactive
+C1385,31,Male,Delhi,8.4,232,1,1050.93,1050.93,2,At-Risk / Inactive
+C1386,40,Female,Delhi,12.9,1,26,145578.55,5599.174999999999,0,Premium Loyalists
+C1387,52,Female,Bengaluru,9.7,18,4,6069.79,1517.4475,1,Family Essential Buyers
+C1388,18,Male,Delhi,3.2,8,19,22059.47,1161.0247368421053,3,Young Trend Shoppers
+C1389,28,Female,Pune,10.3,365,3,3476.4300000000003,1158.8100000000002,2,At-Risk / Inactive
+C1390,42,Female,Mumbai,21.4,1,31,220074.26,7099.169677419355,0,Premium Loyalists
+C1391,39,Female,Mumbai,9.5,83,2,2396.94,1198.47,2,At-Risk / Inactive
+C1392,48,Female,Nagpur,12.4,365,1,2596.47,2596.47,2,At-Risk / Inactive
+C1393,35,Male,Delhi,14.8,9,12,78184.20999999999,6515.350833333333,0,Premium Loyalists
+C1394,39,Female,Mumbai,11.0,38,33,102703.4,3112.224242424242,0,Premium Loyalists
+C1395,22,Male,Mumbai,10.9,166,4,9368.89,2342.2225,2,At-Risk / Inactive
+C1396,51,Female,Bengaluru,21.5,3,10,35507.13,3550.7129999999997,0,Premium Loyalists
+C1397,28,Female,Bengaluru,7.6,35,5,10452.84,2090.568,3,Young Trend Shoppers
+C1398,31,Female,Bengaluru,7.7,365,1,889.75,889.75,2,At-Risk / Inactive
+C1399,25,Female,Nagpur,11.3,9,3,4068.33,1356.11,3,Young Trend Shoppers
+C1400,18,Male,Delhi,6.5,11,9,7281.66,809.0733333333333,3,Young Trend Shoppers
+C1401,27,Female,Pune,7.7,119,30,39563.65,1318.7883333333334,3,Young Trend Shoppers
+C1402,41,Male,Bengaluru,22.8,4,35,128690.9,3676.882857142857,0,Premium Loyalists
+C1403,34,Female,Bengaluru,7.8,112,1,2462.83,2462.83,2,At-Risk / Inactive
+C1404,24,Female,Pune,3.7,42,3,3611.5699999999997,1203.8566666666666,2,At-Risk / Inactive
+C1405,32,Female,Pune,7.1,1,19,29656.12,1560.8484210526315,3,Young Trend Shoppers
+C1406,33,Female,Pune,8.8,19,20,31284.93,1564.2465,3,Young Trend Shoppers
+C1407,34,Male,Bengaluru,7.5,145,2,2939.43,1469.715,2,At-Risk / Inactive
+C1408,37,Male,Pune,15.6,44,29,112969.93,3895.5148275862066,0,Premium Loyalists
+C1409,36,Female,Pune,8.7,365,2,9628.26,4814.13,2,At-Risk / Inactive
+C1410,39,Male,Pune,12.3,155,8,18631.2,2328.9,1,Family Essential Buyers
+C1411,26,Female,Bengaluru,8.8,19,3,5498.66,1832.8866666666665,2,At-Risk / Inactive
+C1412,39,Female,Bengaluru,7.0,78,1,2226.73,2226.73,2,At-Risk / Inactive
+C1413,30,Male,Pune,8.5,365,4,6711.969999999999,1677.9924999999998,2,At-Risk / Inactive
+C1414,39,Female,Bengaluru,9.2,128,5,8479.41,1695.882,1,Family Essential Buyers
+C1415,42,Female,Mumbai,26.1,27,13,57087.46,4391.343076923077,0,Premium Loyalists
+C1416,22,Female,Mumbai,13.4,144,3,6532.31,2177.436666666667,2,At-Risk / Inactive
+C1417,44,Male,Mumbai,12.0,88,7,10516.21,1502.3157142857142,1,Family Essential Buyers
+C1418,29,Male,Bengaluru,7.1,33,8,15345.59,1918.19875,3,Young Trend Shoppers
+C1419,29,Male,Nagpur,15.4,297,3,6297.42,2099.14,2,At-Risk / Inactive
+C1420,19,Male,Mumbai,11.0,233,1,799.94,799.94,2,At-Risk / Inactive
+C1421,25,Female,Mumbai,9.2,105,10,19009.91,1900.991,3,Young Trend Shoppers
+C1422,36,Male,Nagpur,11.1,68,5,11676.07,2335.214,1,Family Essential Buyers
+C1423,26,Male,Bengaluru,6.5,10,12,9563.3,796.9416666666666,3,Young Trend Shoppers
+C1424,24,Female,Delhi,8.1,23,10,12771.6,1277.16,3,Young Trend Shoppers
+C1425,22,Male,Mumbai,5.2,13,4,5093.41,1273.3525,3,Young Trend Shoppers
+C1426,24,Female,Pune,6.2,114,10,20034.91,2003.491,3,Young Trend Shoppers
+C1427,32,Female,Delhi,8.7,2,13,53706.6,4131.276923076923,0,Premium Loyalists
+C1428,29,Female,Bengaluru,15.9,5,12,62705.36,5225.446666666667,0,Premium Loyalists
+C1429,53,Male,Delhi,12.8,33,6,23958.31,3993.0516666666667,1,Family Essential Buyers
+C1430,30,Female,Mumbai,4.6,4,10,22317.559999999998,2231.756,3,Young Trend Shoppers
+C1431,18,Male,Pune,5.0,102,1,1436.04,1436.04,2,At-Risk / Inactive
+C1432,46,Female,Pune,14.7,59,8,16303.17,2037.89625,1,Family Essential Buyers
+C1433,36,Female,Mumbai,11.0,29,21,145083.07,6908.717619047619,0,Premium Loyalists
+C1434,31,Female,Bengaluru,24.6,80,22,94326.62,4287.573636363636,0,Premium Loyalists
+C1435,37,Male,Bengaluru,4.9,30,7,9210.27,1315.7528571428572,1,Family Essential Buyers
+C1436,37,Female,Delhi,11.5,73,1,3663.99,3663.99,2,At-Risk / Inactive
+C1437,33,Male,Mumbai,6.5,57,14,22145.31,1581.8078571428573,3,Young Trend Shoppers
+C1438,29,Female,Mumbai,11.7,40,5,10704.58,2140.916,1,Family Essential Buyers
+C1439,23,Male,Bengaluru,9.8,39,1,2861.87,2861.87,2,At-Risk / Inactive
+C1440,47,Male,Delhi,6.6,365,2,2381.44,1190.72,2,At-Risk / Inactive
+C1441,20,Female,Delhi,5.1,29,13,19120.98,1470.8446153846153,3,Young Trend Shoppers
+C1442,47,Male,Mumbai,19.7,21,16,77694.41,4855.900625,0,Premium Loyalists
+C1443,46,Female,Bengaluru,19.2,6,22,81225.05,3692.0477272727276,0,Premium Loyalists
+C1444,44,Male,Nagpur,18.8,10,19,93574.95,4924.997368421053,0,Premium Loyalists
+C1445,25,Male,Pune,5.1,47,6,10803.49,1800.5816666666667,3,Young Trend Shoppers
+C1446,45,Female,Delhi,6.4,164,12,19780.09,1648.3408333333334,1,Family Essential Buyers
+C1447,25,Female,Bengaluru,10.1,53,3,4931.280000000001,1643.7600000000002,2,At-Risk / Inactive
+C1448,35,Female,Delhi,11.2,130,5,16704.73,3340.946,1,Family Essential Buyers
+C1449,38,Male,Nagpur,6.1,38,8,26347.2,3293.4,1,Family Essential Buyers
+C1450,30,Female,Delhi,7.2,57,8,12371.26,1546.4075,3,Young Trend Shoppers
+C1451,36,Male,Mumbai,9.8,109,1,483.14,483.14,2,At-Risk / Inactive
+C1452,41,Male,Pune,10.8,42,5,8140.91,1628.182,1,Family Essential Buyers
+C1453,29,Male,Nagpur,9.3,123,7,14905.69,2129.384285714286,1,Family Essential Buyers
+C1454,24,Male,Bengaluru,8.2,365,1,2059.03,2059.03,2,At-Risk / Inactive
+C1455,22,Male,Delhi,5.2,1,5,9768.24,1953.648,3,Young Trend Shoppers
+C1456,44,Male,Nagpur,15.9,2,10,43679.35,4367.9349999999995,0,Premium Loyalists
+C1457,25,Female,Pune,6.4,13,9,9987.99,1109.7766666666666,3,Young Trend Shoppers
+C1458,19,Male,Mumbai,3.6,4,5,5820.37,1164.074,3,Young Trend Shoppers
+C1459,26,Male,Mumbai,9.5,5,2,5225.67,2612.835,1,Family Essential Buyers
+C1460,33,Female,Pune,9.7,8,6,10405.56,1734.26,1,Family Essential Buyers
+C1461,39,Female,Delhi,8.8,5,7,17566.45,2509.4928571428572,1,Family Essential Buyers
+C1462,32,Male,Mumbai,7.4,2,8,18380.75,2297.59375,3,Young Trend Shoppers
+C1463,21,Male,Mumbai,5.8,54,11,14708.21,1337.11,3,Young Trend Shoppers
+C1464,22,Male,Mumbai,5.0,22,18,18211.59,1011.755,3,Young Trend Shoppers
+C1465,39,Female,Pune,8.1,47,7,11153.09,1593.2985714285714,1,Family Essential Buyers
+C1466,30,Male,Delhi,10.4,15,3,4294.12,1431.3733333333332,2,At-Risk / Inactive
+C1467,38,Female,Mumbai,5.5,32,11,15782.82,1434.8018181818181,1,Family Essential Buyers
+C1468,18,Male,Pune,5.4,8,15,20370.9,1358.0600000000002,3,Young Trend Shoppers
+C1469,33,Male,Mumbai,12.3,67,5,11993.83,2398.766,1,Family Essential Buyers
+C1470,46,Male,Mumbai,19.5,3,24,103297.55,4304.064583333334,0,Premium Loyalists
+C1471,39,Female,Mumbai,7.2,295,2,4482.58,2241.29,2,At-Risk / Inactive
+C1472,39,Female,Bengaluru,6.6,94,10,6072.61,607.261,3,Young Trend Shoppers
+C1473,46,Female,Mumbai,16.1,7,14,44690.62,3192.187142857143,0,Premium Loyalists
+C1474,18,Male,Nagpur,10.1,52,14,31033.27,2216.662142857143,3,Young Trend Shoppers
+C1475,41,Male,Bengaluru,10.0,161,4,3758.98,939.745,2,At-Risk / Inactive
+C1476,30,Female,Delhi,10.7,86,13,33508.1,2577.5461538461536,1,Family Essential Buyers
+C1477,22,Male,Mumbai,5.5,121,16,31362.129999999997,1960.1331249999998,3,Young Trend Shoppers
+C1478,29,Female,Pune,9.1,156,4,9824.2,2456.05,2,At-Risk / Inactive
+C1479,43,Male,Delhi,13.1,86,9,24029.65,2669.961111111111,1,Family Essential Buyers
+C1480,34,Female,Mumbai,6.3,29,15,12151.19,810.0793333333334,3,Young Trend Shoppers
+C1481,18,Male,Mumbai,4.6,18,12,18931.99,1577.6658333333335,3,Young Trend Shoppers
+C1482,49,Female,Bengaluru,8.0,10,22,79751.36,3625.061818181818,0,Premium Loyalists
+C1483,46,Male,Bengaluru,8.6,111,6,13596.810000000001,2266.135,1,Family Essential Buyers
+C1484,29,Male,Pune,7.1,28,7,7492.48,1070.3542857142857,3,Young Trend Shoppers
+C1485,33,Female,Nagpur,6.9,12,5,14408.37,2881.674,1,Family Essential Buyers
+C1486,45,Male,Mumbai,21.7,15,32,122401.77,3825.0553125,0,Premium Loyalists
+C1487,27,Male,Pune,7.0,111,2,3681.27,1840.635,2,At-Risk / Inactive
+C1488,22,Female,Bengaluru,6.6,23,14,17382.03,1241.5735714285713,3,Young Trend Shoppers
+C1489,19,Female,Delhi,10.0,181,4,5542.5,1385.625,2,At-Risk / Inactive
+C1490,20,Male,Delhi,4.8,11,13,21950.57,1688.5053846153846,3,Young Trend Shoppers
+C1491,40,Male,Mumbai,20.7,49,17,107216.45,6306.849999999999,0,Premium Loyalists
+C1492,26,Male,Pune,12.6,65,2,3373.09,1686.545,2,At-Risk / Inactive
+C1493,29,Male,Pune,11.7,31,15,56290.47,3752.698,1,Family Essential Buyers
+C1494,23,Male,Mumbai,11.1,26,1,721.18,721.18,2,At-Risk / Inactive
+C1495,35,Male,Pune,5.3,45,16,16138.46,1008.65375,3,Young Trend Shoppers
+C1496,47,Male,Mumbai,8.5,15,9,20602.68,2289.1866666666665,1,Family Essential Buyers
+C1497,24,Male,Bengaluru,10.0,107,2,4713.12,2356.56,2,At-Risk / Inactive
+C1498,30,Female,Delhi,8.6,156,7,16820.86,2402.98,1,Family Essential Buyers
+C1499,40,Female,Bengaluru,4.8,123,17,43532.87,2560.7570588235294,1,Family Essential Buyers
+C1500,51,Female,Pune,12.9,50,3,4040.9799999999996,1346.993333333333,1,Family Essential Buyers
